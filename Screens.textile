@@ -1,0 +1,45 @@
+h1. Creating a new screen
+
+This guide shall help contributors to add new screens to the Bondage Club. All descriptions are currently extracted from the Club's source code. So, if you have deeper knowledge about this, please feel free to share your wisdom.
+
+h2. Functions to provide
+
+Most functions in accordance to screens within the club are called dynamically, meaning the value of the global variable @CurrentScreen@ is concatenated with another string and the result is called as a function. Thus, if you want to add a new screen to the club, you should provide the following functions:
+
+* @<Screen>Load()@ is only called once through each invocation of @CommonSetScreen()@, after the value of @CurrentScreen@ has been changed
+* @<Screen>Run()@  is called each frame (I think), using the current value of @CurrentScreen@
+* @<Screen>Click()@ is called any time the canvas receives a click event, again using the current value of @CurrentScreen@. If this function is omitted, you'll probably won't break the game, but produce console errors. so you better provide an empty function body, even if you don't want your screen to handle click events.
+* @<Screen>KeyDown()@ is called any time the canvas receives a keydown event, again using the current value of @CurrentScreen@. If this function is omitted, you'll probably won't break the game, but produce console errors. so you better provide an empty function body, even if you don't want your screen to handle keydown events.
+* @<Screen>Exit()@ is not controlled by any central lifecycle, and is called on a per-screen basis, as needed
+
+h2. Life cycle
+
+...coming soon
+
+h2. Details to the various functions
+
+h3. @<Screen>Load()@
+
+Here the preparation of the elements on the screen takes place. That's the place for all @ElementCreateXXX@ calls
+
+h3. @<Screen>Run()@
+Handles the logic of the screen. Seems to be called over and over again in a loop
+
+This function draws the screen elements. Useful functions for this are:
+* @ElementPosition@ - Positions a previously created element
+* @DrawText@ - Positions a text element. Use @GetText@ to get the appropriate translation.
+* @DrawButton@ - Draws a button, either with text or with an icon
+* @DrawCharacter@ - Draws a Character. Use the global variable @Player@ to draw the current player's character
+
+
+h3. @<Screen>Click()@
+
+Handles click events. As there are no event handlers for the graphical elements on the screen, you have to determine where the mouse pointer was, when the user clicked. The position of the mouse is stored in the global variables @MouseX@ and @MouseY@ respectively.
+
+h3. @<Screen>KeyDown()@
+
+Handles key events. The ASCII Code of the pressed key is stored in the global variable @KeyPress@.
+
+h3. @<Screen>Exit()@
+
+Do your cleanup here. This function is not called automatically, but you have to do it yourself. This is the place for all @ElementRemove@ calls. Return to the screen you came from by calling @CommonSetScreen@

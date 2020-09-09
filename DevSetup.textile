@@ -1,0 +1,229 @@
+h1. Developer Setup
+
+There are two main components to the application: the UI and the server. The UI is written using HTML and JavaScript. The server is written in JavaScript using NodeJS, and is backed by a MongoDB database.
+
+For most development purposes, it is sufficient to only set up the UI and have it point at the live game server. For more complex changes, or for more control over the dev environment, it may be useful to also have a local copy of the server running. This page walks through how to set up both the UI and the server.
+
+This guide (currently) assumes you have already cloned the relevant repositories - git guidance may be added later. The main game repositories are here:
+
+* UI: https://github.com/Ben987/Bondage-College
+* Server: https://github.com/Ben987/Bondage-Club-Server
+
+
+h2. UI Setup
+
+To run the UI standalone, pointed at the live server, all that's needed is a simple HTTP server to serve up @BondageClub/index.html@. There are several options here, and this page will cover a handful. Below are two easy options, and further down are a couple of more advanced options (which might be useful for those already fairly familiar with PHP or Python).
+
+h3. Running a dev server through your IDE
+
+Depending on your choice of code editor, many modern IDEs come with a built-in development server. Below we cover two options: Visual Studio Code and JetBrains IDEs (e.g. WebStorm). If you use a different IDE, check your IDE's documentation to see if this option is available to you, and to learn how to do it.
+
+h4. Visual Studio Code
+
+The "Live Server extension":https://ritwickdey.github.io/vscode-live-server/ for VS Code allows you to serve up the club statically.
+
+Install the extension and use it to launch the @BondageClub/index.html@ file (the link above gives a pretty comprehensive guide on how to do this).
+
+h4. JetBrains Suite
+
+JetBrains WebStorm comes with built-in functionality for serving static web content. Simply locate the @BondageClub/index.html@ file in the project explorer, right click it, and select "Run 'index.html'". This should open up the club in your default browser.
+
+h3. Web Server for Chrome
+
+This is a Chrome app that allows you to serve up static files quickly and easily (but obviously, it requires that you have Google Chrome installed).
+
+You can install the app from "the Chrome web store":https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb.
+
+Once the app is installed, launch it and click the "Choose Folder" button - use this to select the @BondageClub@ directory inside the Bondage-College repository. Ensure the "Automatically show index.html" checkbox is checked, then click the link to the provided web server URL.
+
+h3. Running a PHP Dev Server
+
+First, you'll need to install PHP (https://www.php.net/). Depending on your operating system, how you do this will vary - the PHP website has fairly comprehensive installation guidance for most operating systems: https://www.php.net/manual/en/install.php. For Mac users, a version of PHP should come installed with the operating system. To verify that PHP has been installed correctly, open a terminal and enter:
+
+<pre>
+php -v
+</pre>
+
+If PHP is installed correctly, you should see something like this printed:
+
+<pre>
+PHP 7.4.4 (cli) (built: Mar 17 2020 13:49:13) ( NTS Visual C++ 2017 x64 )
+Copyright (c) The PHP Group
+Zend Engine v3.4.0, Copyright (c) Zend Technologies
+</pre>
+
+Once you have PHP installed, navigate to the @BondageClub@ directory inside the repository, and run:
+
+<pre>
+php -S localhost:8000
+</pre>
+
+Once the server has started, you should be able to browse to http://localhost:8000 in your browser, and the game should be running.
+
+h3. Running a Python Dev Server
+
+Mozilla have a fairly succinct guide to running a Python dev server: https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server#Running_a_simple_local_HTTP_server
+
+First, you'll need to install Python (either Python 2.x or Python 3.x). Python can be downloaded from https://www.python.org/downloads/.
+
+To verify that Python has been installed correctly, open a terminal and enter:
+
+<pre>
+python -V
+</pre>
+
+If Python is installed correctly, you should see something like this printed:
+
+<pre>
+Python 2.7.17
+</pre>
+
+Once you have Python installed, navigate to the @BondageClub@ directory inside the repository. Then, depending on your python version, you'll need to run a different command to start the server.
+
+h4. Python 2.x
+
+<pre>
+python -m SimpleHTTPServer
+</pre>
+
+h4. Python 3.x
+
+<pre>
+python3 -m http.server
+</pre>
+
+Once the server has started, you should be able to browse to http://localhost:8000 in your browser, and the game should be running.
+
+h2. Server Setup
+
+To run the server locally, you will need a MongoDB server listening on the default port (27017), and a working Node JS/npm installation. If you already have both of these, you can safely skip to the Running the server section below.
+
+h3. Installing MongoDB
+
+The server stores user accounts inside a MongoDB database, so you'll need a MongoDB instance to point the server at in order to run it locally. The easiest way to do that is to install and run MongoDB Community Edition on your local machine.
+
+* "You can download MongoDB for your OS here.":https://www.mongodb.com/try/download/community
+* "MongoDB has comprehensive for installation on most operating systems here":https://docs.mongodb.com/manual/installation/#install-mongodb
+
+Once MongoDB has been installed, you should make sure that the @mongo@ and @mongod@ executables are available on your @PATH@ environment variable. They are usually found in:
+
+<pre>
+<mongo installation directory>/Server/<version number>/bin
+</pre>
+
+If you installed MongoDB as an automatically-starting service, then the MongoDB server should already be running. To connect to it, run the following in a terminal:
+
+<pre>
+mongo
+</pre>
+
+If successful, you should see something like the following:
+
+<pre>
+MongoDB shell version: 4.2.0
+connecting to: test
+</pre>
+
+You can exit the Mongo shell using:
+
+<pre>
+exit
+</pre>
+
+If you did not set up MongoDB to start automatically, you will need to start it manually by running the following in a separate terminal:
+
+<pre>
+mongod
+</pre>
+
+Assuming you managed to get everything up and running, the MongoDB server will now be available and listening on @localhost:27017@.
+
+To learn a little more about Mongo and how to use it, take a look at the "Getting Started":https://docs.mongodb.com/manual/tutorial/getting-started/ guide. MongoDB also a GUI, "Compass":https://www.mongodb.com/try/download/compass, which allows you to browse and perform operations on your MongoDB databases and collections.
+
+h3. Installing Node JS and npm
+
+Installing Node JS and npm is fairly straightforward. You can download the appropriate installer or binary for your system "from this page":https://nodejs.org/en/download/. Alternatively, "this page":https://nodejs.org/en/download/package-manager/ has guidance on installing Node via a package manager.
+
+You can verify that Node has been installed correctly by running the following from a terminal (assuming the Node binary is available on your @PATH@ environment variable):
+
+<pre>
+node -v
+</pre>
+
+This should print out something like this:
+
+<pre>
+v12.18.0
+</pre>
+
+Similarly, you can verify that npm has been installed correctly by running the following from a terminal:
+
+<pre>
+npm -v
+</pre>
+
+This should print out something like this:
+
+<pre>
+6.14.5
+</pre>
+
+
+h3. Running the server
+
+Assuming you have a local MongoDB installation running, and a working Node/npm installation, you should now be able to run the server locally.
+
+First, navigate to the @Bondage-Club-Server@ directory, and run the following:
+
+<pre>
+npm i
+</pre>
+
+This will install the various Node JS dependencies needed to run the server. This might take a little while the first time you run it. Once the dependencies have been installed, you can run the server with:
+
+<pre>
+npm start
+</pre>
+
+If everything is working correctly, you should see the following:
+
+<pre>
+> BondageClubServer@1.0.0 start J:\Other\dev\projects\Bondage-Projects\Bondage-Club-Server
+> node app.js
+
+****************************************
+Database: BondageClubDatabase connected
+Next Member Number: 7
+Bondage Club server is listening on 4288
+****************************************
+</pre>
+
+That's it! Your local server is now up and running. The last thing that needs to be done is to ensure that the UI is configured to point at your local server rather than the live game server.
+
+h3. Pointing the UI to your local server
+
+To get the UI to use your local server, you need to make one small edit to the @BondageClub/index.html@ file in the @Bondage-College@ repository.Comment out the following line from the @window.onload@ callback function:
+
+<pre><code class="javascript">
+ServerURL = "https://bondage-club-server.herokuapp.com/";
+</code></pre>
+
+Once that has been done, that section of the file should look something like this:
+
+<pre><code class="javascript">
+// When the code is loaded, we start the game engine
+window.onload = function() {
+	//CheatImport();
+	// ServerURL = "https://bondage-club-server.herokuapp.com/";
+	CommonIsMobile = CommonDetectMobile();
+	TranslationLoad();
+	DrawLoad();
+	AssetLoadAll();
+	CommonSetScreen("Character", "Login");
+	ServerInit();
+	MainRun(0);
+};
+</code></pre>
+
+Once that's done, you can start your UI as in the UI Setup section above.
+

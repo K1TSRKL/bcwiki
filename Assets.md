@@ -1,0 +1,1 @@
+* [(Advanced) Dynamic Assets](https://github.com/ace-1331/Bondage-College/wiki/DynamicAssets)
