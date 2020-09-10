@@ -1,0 +1,15 @@
+h1. Item Creation
+
+This is intended to a (fairly ambitious) multi-part guide that will walk people through all the necessary aspects of asset creation.
+
+*Note*: This is a work in progress. There are a lot of things to cover, so if something is missing, please check back later.
+
+h2. Todo List
+
+* Basic item creation - clothes
+* Poses
+* Layers & colouring
+* Restraints
+* Locks
+* Extended Items
+* Advanced techniques

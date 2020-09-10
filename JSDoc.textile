@@ -1,0 +1,108 @@
+h1. JavaScript Documentation
+
+h2. Backgrounds
+
+[[Backgrounds]]
+
+h2. Screens
+
+h3. Character
+
+[[Appearance]]
+[[BackgroundSelection]]
+[[Cheat]]
+[[Creation]]
+[[FriendList]]
+[[InformationSheet]]
+[[Login]]
+[[OnlineProfile]]
+[[PasswordReset]]
+[[Preferences]]
+[[Relog]]
+[[Title]]
+[[Wardrobe]]
+
+h3. CutScenes
+
+[[NPCCollaring]]
+[[NPCSlaveAuction]]
+[[PlayerCollaring]]
+[[PlayerMistress]]
+[[SarahIntro]]
+
+h3. Inventory
+
+[[BondageBenchStraps]]
+[[BitchSuit]]
+[[Chains]]
+
+h3. MiniGame
+
+[[DojoStruggle]]
+[[HorseWalk]]
+[[Kidnap]]
+[[MaidCleaning]]
+[[MaidDrinks]]
+[[PuppyWalker]]
+[[RhythmGame]]
+[[SlaveAuction]]
+[[Tennis]]
+[[Therapy]]
+
+h3. Online
+
+[[ChatAdmin]]
+[[ChatCreate]]
+[[ChatRoom]]
+[[ChatSearch]]
+[[GameLARP]]
+[[OnlineGame]]
+
+h3. Room
+
+[[AsylumBedroom]]
+[[AsylumEntrance]]
+[[AsylumMeeting]]
+[[AsylumTherapy]]
+[[Cafe]]
+[[Cell]]
+[[CollegeCafeteria]]
+[[CollegeDetention]]
+[[CollegeTeacher]]
+[[Empty]]
+[[LARP]]
+[[Magic]]
+[[MaidQuarters]]
+[[MainHall]]
+[[Shop]]
+[[SlaveMarket]]
+
+h2. Scripts
+
+[[Activity]]
+[[AfkTimer]]
+[[Animation]]
+[[Asset]]
+[[Audio]]
+[[Character]]
+[[ColorPicker]]
+[[Common]]
+[[CommonDraw]]
+[[Dialog]]
+[[Drawing]]
+[[Element]]
+[[ExtendedItem]]
+[[GameLog]]
+[[GLDraw]]
+[[Import]]
+[[Inventory]]
+[[MiniGame]]
+[[Mouse]]
+[[NPC]]
+[[Reputation]]
+[[Server]]
+[[Skills]]
+[[Speech]]
+[[Text]]
+[[Timer]]
+[[Translation]]

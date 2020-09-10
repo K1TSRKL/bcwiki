@@ -9,7 +9,6 @@ This guide (currently) assumes you have already cloned the relevant repositories
 * UI: https://github.com/Ben987/Bondage-College
 * Server: https://github.com/Ben987/Bondage-Club-Server
 
-
 h2. UI Setup
 
 To run the UI standalone, pointed at the live server, all that's needed is a simple HTTP server to serve up @BondageClub/index.html@. There are several options here, and this page will cover a handful. Below are two easy options, and further down are a couple of more advanced options (which might be useful for those already fairly familiar with PHP or Python).
@@ -226,4 +225,3 @@ window.onload = function() {
 </code></pre>
 
 Once that's done, you can start your UI as in the UI Setup section above.
-
