@@ -1,17 +1,17 @@
-"There's no place like...":/SandrineBC/Bondage-College/wiki/
+"There's no place like...":/Ben987/Bondage-College/wiki/
 
 ***
 
-"Developer Setup":/SandrineBC/Bondage-College/wiki/DevSetup
-"Guide to Dynamic Assets":/SandrineBC/Bondage-College/wiki/DynamicAssets
+"Developer Setup":/Ben987/Bondage-College/wiki/DevSetup
+"Guide to Dynamic Assets":/Ben987/Bondage-College/wiki/DynamicAssets
 
 ***
 
 Adding new...
-* "Items":/SandrineBC/Bondage-College/wiki/ItemCreation
-* "Dialogs":/SandrineBC/Bondage-College/wiki/NewDialog
-* "Screens":/SandrineBC/Bondage-College/wiki/NewScreen
+* "Items":/Ben987/Bondage-College/wiki/ItemCreation
+* "Dialogs":/Ben987/Bondage-College/wiki/NewDialog
+* "Screens":/Ben987/Bondage-College/wiki/NewScreen
 
 ***
 
-"JavaScript Documentation":/SandrineBC/Bondage-College/wiki/JSDoc
+"JavaScript Documentation":/Ben987/Bondage-College/wiki/JSDoc

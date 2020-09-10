@@ -4,17 +4,17 @@ We try to do a comprehensive documentation of the clubs data types and functions
 
 h2. Guides
 
-"Developer Setup":/SandrineBC/Bondage-College/wiki/DevSetup
+"Developer Setup":/Ben987/Bondage-College/wiki/DevSetup
 
-"Guide to Dynamic Assets":/SandrineBC/Bondage-College/wiki/DynamicAssets
+"Guide to Dynamic Assets":/Ben987/Bondage-College/wiki/DynamicAssets
 
 h3. Adding new things to BC
 
-"Item Creation":/SandrineBC/Bondage-College/wiki/ItemCreation
+"Item Creation":/Ben987/Bondage-College/wiki/ItemCreation
 
-"Creating a new dialog":/SandrineBC/Bondage-College/wiki/NewDialog
+"Creating a new dialog":/Ben987/Bondage-College/wiki/NewDialog
 
-"Creating a new screen":/SandrineBC/Bondage-College/wiki/NewScreen
+"Creating a new screen":/Ben987/Bondage-College/wiki/NewScreen
 
 h3. API Documentation
 
@@ -30,4 +30,4 @@ We are adding "JSDoc":https://jsdoc.app/index.html comments to all functions in 
 
 The wiki markup for these pages can be automatically generated from the game's source code using scripts from the "Bondage Club Scripts":https://github.com/elliesec/Bondage-Club-Scripts repository (note that Node.js and npm are required to do this).
 
-"JavaScript Documentation":/SandrineBC/Bondage-College/wiki/JSDoc
+"JavaScript Documentation":/Ben987/Bondage-College/wiki/JSDoc
