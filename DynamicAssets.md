@@ -19,7 +19,7 @@
 
 The dynamic asset framework is built with optimization in mind. It gives asset makers a lot of freedom, but this freedom should not be abused hence why this feature is quite advanced. It enables several things that were outright impossible before. This wiki page will explain the dos and don'ts as well as give more insights about what's currently available as part of the framework.
 
-**A dynamic asset should NEVER include frequent resource-intensive functions as it can hinder performances the more dynamic items are worn!**
+> ⚠️ WARNING: A dynamic asset should **NEVER** include frequent resource-intensive functions as it can hinder performances the more dynamic items are worn!
 
 There are 3 new possible functions you can attach to an asset, we will call these *hooks*.
 
@@ -35,7 +35,7 @@ To enable them, you can toggle their asset property in the Female3DCG.js file li
 DynamicAfterDraw: true, DynamicBeforeDraw: true, DynamicScriptDraw: true
 ```
 
-**IMPORTANT!** Ghosted players will not have their hooks called and online characters can choose to disable the Script hook for performance. In most cases it does not matter, but you might want to consider it when making the base asset or the first render in Before/After draw
+> ℹ️ Note: Ghosted players will not have their hooks called and online characters can choose to disable the Script hook for performance. In most cases it does not matter, but you might want to consider it when making the base asset or the first render in Before/After draw
 
 ## BeforeDraw
 
@@ -259,4 +259,4 @@ Certain use cases could be a prisoner set where the number is entered on only on
 
 For this purpose, there is the AnimationGroupSubscribe function for which you give it a group name. It will handle subscriptions and data cleanup behind the hood. All you need to know is that a group's data is deleted when a character no longer wears any item of that group, and any item can have as many groups as desired. The group is attached to the PersistentData object with a property of the same name. Meaning, if you subscribe to the "ShockItem" group, you will have the group's data attached on your object at PersistentData.GroupDataShockItem
 
-**WARNING!** Never change the group object reference, this feature is based on object references, if you overwrite the group property of your persistent data, you will no longer have data properly synchronized
+> ⚠️ WARNING: Never change the group object reference, this feature is based on object references, if you overwrite the group property of your persistent data, you will no longer have data properly synchronized
