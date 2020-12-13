@@ -1,8 +1,25 @@
-h1. (Advanced) Dynamic Assets
+# (Advanced) Dynamic Assets
+
+## Table of contents
+
+* [Introduction](#introduction)
+* [BeforeDraw](#beforedraw)
+* [AfterDraw](#afterdraw)
+* [ScriptDraw](#scriptdraw)
+* [Extra built-in functionality: Persistent data](#extra-built-in-functionality-persistent-data)
+* [Extra built-in functionality: DrawCanvas](#extra-built-in-functionality-drawcanvas)
+* [Extra built-in functionality: AnimationGenerateTempCanvas](#extra-built-in-functionality-animationgeneratetempcanvas)
+* [Extra built-in functionality: Shareable data](#extra-built-in-functionality-shareable-data)
+
+***
+
+## Introduction
+
+[Top of page](#advanced-dynamic-assets)
 
 The dynamic asset framework is built with optimization in mind. It gives asset makers a lot of freedom, but this freedom should not be abused hence why this feature is quite advanced. It enables several things that were outright impossible before. This wiki page will explain the dos and don'ts as well as give more insights about what's currently available as part of the framework.
 
-*A dynamic asset should NEVER include frequent resource-intensive functions as it can hinder performances the more dynamic items are worn!*
+**A dynamic asset should NEVER include frequent resource-intensive functions as it can hinder performances the more dynamic items are worn!**
 
 There are 3 new possible functions you can attach to an asset, we will call these *hooks*.
 
@@ -13,16 +30,18 @@ There are 3 new possible functions you can attach to an asset, we will call thes
 These hooks are found in CommonDraw.js and the DrawCharacter function. Animation.js contains all the dynamic asset specific logic.
 
 To enable them, you can toggle their asset property in the Female3DCG.js file like this. Note that some items may require 1 or many of these hooks for the desired outcome.
-<pre><code class="javascript">
+
+```js
 DynamicAfterDraw: true, DynamicBeforeDraw: true, DynamicScriptDraw: true
-</code></pre>
- 
+```
 
-IMPORTANT! Ghosted players will not have their hooks called and online characters can choose to disable the Script hook for performance. In most cases it does not matter, but you might want to consider it when making the base asset or the first render in Before/After draw
+**IMPORTANT!** Ghosted players will not have their hooks called and online characters can choose to disable the Script hook for performance. In most cases it does not matter, but you might want to consider it when making the base asset or the first render in Before/After draw
 
-h2. BeforeDraw
+## BeforeDraw
 
-h3. Lifecycle
+[Top of page](#advanced-dynamic-assets)
+
+### Lifecycle
 
 The BeforeDraw function happens right after each property of the layer is calculated, but right before an image is drawn on the character canvas.
 
@@ -30,16 +49,15 @@ It receives all the needed layer info inside an object and has the possibility t
 
 This allows some data to be changed based on certain conditions such as the color being given in this example below. (The item used as an example throughout this page is a custom name tag that changes color every second for demonstration purposes)
 
-<pre><code class="javascript">
+```js
 function AssetsItemNeckAccessoriesCustomCollarTagBeforeDraw({ CA }) { 
     const OverridenData = { CA };
     OverridenData.CA.Color = "#" + Math.floor(Math.random() * 16777215).toString(16);
     return OverridenData;
 }
-</code></pre>
+```
 
-
-h3. Dos and Don'ts
+### Dos and Don'ts
 
 This hook can be used for things such as:
 * overriding the color of the image 
@@ -51,7 +69,7 @@ This hook SHOULD NOT be used for things such as:
 * Turning it into a layer-coloring system (There should be a proper update to the color system for that)
 * Altering things beyond the dynamic asset in question
 
-h3. Examples
+### Examples
 
 Some ideas of things that could or have been done be done with this:
 * Blinking light on a shock collar
@@ -60,23 +78,49 @@ Some ideas of things that could or have been done be done with this:
 * translating an image programmatically
 * Drawing something under a specific layer
 
-h3. Gotchas
+### Gotchas
 
 Do keep in mind the followings when using the before draw hook:
 * This hook is called for EACH layer of an asset.
 * This hook is called regardless of the given pose, be careful if you need to do some pose-specific calculations
 
-h2. AfterDraw
+### The `data` object
 
+The `BeforeDraw` function takes a single data object as a parameter, which contains several properties. Some of these properties can be overridden by the `BeforeDraw` function to modify the way the item is drawn. Below is a table of the properties that can be accessed on the data object.
 
-h3. Lifecycle
+| Property | Can be overridden? | Description |
+| --- | --- | --- |
+| X | Yes | This is the X coordinate that the asset should be drawn at. While it's generally less applicable to the X position, the note below on the Y property also applies to the X property |
+| Y | Yes | This is the Y coordinate that the asset should be drawn at. **Note**: this is after any offsets from poses or items (e.g. high heels) have been applied. If you need to override this property, it should generally be done by adding/subtracting an offset to prevent potential incompatibilities with poses or items that apply a height offset. For example, use: `return {Y: data.Y + 50}`, instead of: `return {Y: 100}` |
+| Color | Yes | This is the color that will be applied to the layer. Modifying this can dynamically change the color based on conditions in your BeforeDraw function. The color should generally be a hex colour string (e.g. #123abc) |
+| Property | Yes | This is the item's Property object. It can be overridden, but note that this won't actually persist the change to the item. Currently, overriding this is only useful for modifying whether or not a lock should be drawn. For example, you could prevent the lock from being drawn on a locked item: `return {LockedBy: null};`, or you could draw a lock on an unlocked item (provided a lock asset exists): `return {LockedBy: "MetalPadlock"};` |
+| CA | Yes | This is the item from the character's appearance array that is currently being drawn. This can be overridden, but doing so will not modify the item, and at present will not affect the way the item is drawn. |
+| LayerType | Yes | This is the type of the current layer to be drawn, prefixed by an underscore. This can be overridden to dynamically modify the asset that gets drawn. For example you could switch between MyAsset_Type1_Layer1.png and MyAsset_Type2_Layer1.png: `return {LayerType: "_Type2"};` |
+| L | Yes | This is the name of the layer, prefixed by an underscore. This can be overridden to dynamically modify the asset that gets drawn. For example you could switch between MyAsset_Type1_Layer1.png and MyAsset_Type1_Layer2.png: `return {L: "_Layer2"}` |
+| AlphaMasks | Yes | This is an array of `[x, y, width, height]` tuples that define alpha masks to be applied to the layer (areas where this layer's asset will be deleted). Dynamic alpha masks can be added or removed by overriding this property. |
+| A | No | _Description coming soon..._ |
+| G | No | _Description coming soon..._ |
+| AG | No | _Description coming soon..._ |
+| Pose | No | _Description coming soon..._ |
+| BlinkExpression | No | _Description coming soon..._ |
+| drawCanvas | No | _Description coming soon..._ |
+| drawCanvasBlink | No | _Description coming soon..._ |
+| PersistentData | No | _Description coming soon..._ |
+
+***
+
+## AfterDraw
+
+[Top of page](#advanced-dynamic-assets)
+
+### Lifecycle
 
 The AfterDraw function happens right after a layer is drawn on the player canvas.
 
 It receives all the needed layer info inside an object. Note that it is the info used to draw the image, therefore it will be the overwritten values if previously overwritten in BeforeDraw
 
 This allows overlaying the image with a dynamically built canvas. (See DrawCanvas explanation below)
-<pre><code class="javascript">
+```js
 function AssetsItemNeckAccessoriesCustomCollarTagAfterDraw({
     C, A, X, Y, drawCanvas, drawCanvasBlink
 }) { 
@@ -97,9 +141,9 @@ function AssetsItemNeckAccessoriesCustomCollarTagAfterDraw({
     drawCanvas(TempCanvas, X + 227.5, Y + 30);
     drawCanvasBlink(TempCanvas, X + 227.5, Y + 30);
 }
-</code></pre>
+```
 
-h3. Dos and Don'ts
+### Dos and Don'ts
 
 This hook can be used for things such as:
 * writing text over a layer
@@ -108,23 +152,25 @@ This hook can be used for things such as:
 This hook SHOULD NOT be used for things such as:
 * Drawing an entirely new layer
 
-h3. Examples
+### Examples
 
 Some ideas of things that could or have been done be done with this:
 * ID card
 * showing an amount of money
 * displaying a certain property contained in the asset property object, etc.
 
-h3. Gotchas
+### Gotchas
 
 Do keep in mind the followings when using the before draw hook:
 * This hook is called for EACH layer of an asset.
 * This hook is called regardless of the given pose, be careful if you need to do some pose-specific calculations when drawing a new canvas
-* Your temporary canvas needs to be generated by AnimationGenerateTempCanvas(C, A, Width, Height). This ensures all meta data is setup as expected
+* Your temporary canvas needs to be generated by `AnimationGenerateTempCanvas(C, A, Width, Height)`. This ensures all meta data is setup as expected
 
-h2. ScriptDraw
+## ScriptDraw
 
-h3. Lifecycle
+[Top of page](#advanced-dynamic-assets)
+
+### Lifecycle
 
 The ScriptDraw function happens right before drawing a character on the main canvas. This means it will be run every single frame, and more than once if the same character is drawn twice on the same frame. You MUST make this function has optimized as it can be.
 
@@ -132,7 +178,7 @@ It receives the character object and some other information.
 
 This allows you to trigger a refresh based on time or certain conditions. In the case of this example, the condition is 1s elapsed since the last refresh.
 
-<pre><code class="javascript">
+```js
 function AssetsItemNeckAccessoriesCustomCollarTagScriptDraw({C, PersistentData}) { 
     // every second, new color so trigger a refresh
     if (typeof PersistentData().LastTime != "number") PersistentData().LastTime = 0; // When the item is first worn
@@ -142,9 +188,9 @@ function AssetsItemNeckAccessoriesCustomCollarTagScriptDraw({C, PersistentData})
         PersistentData().LastTime = CommonTime(); // We save the last time we tried to refresh on the object for optimisation and to make sure we draw only once per second as this is the item's intended behavior
     } 
 }
-</code></pre>
+```
 
-The default amount of refreshes due to animations is 1 minute. To request a lower refresh rate, you must call *AnimationRequestRefreshRate* with the maximum refresh time in ms. This system optimizes the amount of rebuilds caused by dynamic items when wearing many of them.
+The default amount of refreshes due to animations is 1 minute. To request a lower refresh rate, you must call AnimationRequestRefreshRate with the maximum refresh time in ms. This system optimizes the amount of rebuilds caused by dynamic items when wearing many of them.
 Each frame that requires this refreshrate must request it as the refresh rate is recalculated every frame when necessary.
 
 When your script function wants to redraw the asset, for example because some data used for rendering it changed, you need to call AnimationRequestDraw. That function will call a character refresh when the refresh rate will allow it.
@@ -154,7 +200,7 @@ All animations and renders are done client side. This means you might not see th
 
 The only reason to sync anything with the server is if an important property on the object actually changed which is not always the case. In the case of the random color on the tag, we do not actually want everyone to see the exact same thing. Another example of this would be redrawing a tip jar when the amount of money changed -> you wouldn't need to sync anything with the server as everyone already has the amount of money so each client renders the item by itself.
 
-h3. Dos and Don'ts
+### Dos and Don'ts
 
 This hook can be used for things such as:
 * Triggering a refresh based on a time condition (Every 15s, every 2s, etc.)
@@ -164,7 +210,7 @@ This hook SHOULD NOT be used for things such as:
 * Heavy computations 
 * Using an abusive refresh rate
 
-h3. Examples
+### Examples
 
 Some ideas of things that could or have been done be done with this:
 * Color changing item
@@ -172,13 +218,15 @@ Some ideas of things that could or have been done be done with this:
 * Opening/closing animation
 * A tip jar
 
-h3. Gotchas
+### Gotchas
 
 Do keep in mind the followings when using the before draw hook:
 * This hook is called every frame for each character drawn, meaning if the character is drawn twice, itll be called twice (Ie: wardrobe)
 * Computations should not be done each frame, instead it should be done every X amount of time to match the refresh rate.
 
-h2. Extra built-in functionality: Persistent data
+## Extra built-in functionality: Persistent data
+
+[Top of page](#advanced-dynamic-assets)
 
 Some items may want some data to persist, such a time or computed value. They might want to share data between the 3 hooks, etc.
 PersistentData is a given function that returns an object in which an asset can store anything it needs. The storage is handled behind the hood.
@@ -189,15 +237,21 @@ You do not need to handle how things are stored at all, just read/write any prop
 
 PersistentData is passed to all 3 hooks inside the data object and can be read from elsewhere in the club, but in theory that should never be the case.
 
-h2. Extra built-in functionality: DrawCanvas
+## Extra built-in functionality: DrawCanvas
+
+[Top of page](#advanced-dynamic-assets)
 
 The before and after draw hooks are given a drawCanvas and drawCanvasBlink function, these are used to draw a canvas on the character canvas. Therefore, you simply need to give it the dynamically built canvas and it will be overlayed on your item
 
-h2. Extra built-in functionality: AnimationGenerateTempCanvas
+## Extra built-in functionality: AnimationGenerateTempCanvas
+
+[Top of page](#advanced-dynamic-assets)
 
 This function prepares a temporary canvas compatible with the AfterDraw hook so decouple the logic from the actual asset making
 
-h2. Extra built-in functionality: Shareable data
+## Extra built-in functionality: Shareable data
+
+[Top of page](#advanced-dynamic-assets)
 
 You may have situations where a group of assets is part of a set or part of a category, in a case like this, it can be interesting to share some information. 
 
@@ -205,4 +259,4 @@ Certain use cases could be a prisoner set where the number is entered on only on
 
 For this purpose, there is the AnimationGroupSubscribe function for which you give it a group name. It will handle subscriptions and data cleanup behind the hood. All you need to know is that a group's data is deleted when a character no longer wears any item of that group, and any item can have as many groups as desired. The group is attached to the PersistentData object with a property of the same name. Meaning, if you subscribe to the "ShockItem" group, you will have the group's data attached on your object at PersistentData.GroupDataShockItem
 
-WARNING! Never change the group object reference, this feature is based on object references, if you overwrite the group property of your persistent data, you will no longer have data properly synchronized
+**WARNING!** Never change the group object reference, this feature is based on object references, if you overwrite the group property of your persistent data, you will no longer have data properly synchronized
