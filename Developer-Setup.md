@@ -1,5 +1,22 @@
 # Developer Setup
 
+## Table of contents
+
+* [Introduction](#introduction)
+* [UI Setup](#ui-setup)
+  * [Running a dev server through your IDE](#running-a-dev-server-through-your-ide)
+  * [Web Server for Chrome](#web-server-for-chrome)
+  * [Running a PHP Dev Server](#running-a-php-dev-server)
+  * [Running a Python Dev Server](#running-a-python-dev-server)
+* [Server Setup](#server-setup)
+  * [Installing MongoDB](#installing-mongodb)
+  * [Installing Node JS and npm](#installing-node-js-and-npm)
+  * [Running the server](#running-the-server)
+
+## Introduction
+
+[Top of page](#developer-setup)
+
 There are two main components to the application: the UI and the server. The UI is written using HTML and JavaScript. The server is written in JavaScript using NodeJS, and is backed by a MongoDB database.
 
 For most development purposes, it is sufficient to only set up the UI and have it point at the live game server. For more complex changes, or for more control over the dev environment, it may be useful to also have a local copy of the server running. This page walks through how to set up both the UI and the server.
@@ -9,7 +26,11 @@ This guide (currently) assumes you have already cloned the relevant repositories
 * UI: [https://github.com/Ben987/Bondage-College](https://github.com/Ben987/Bondage-College)
 * Server: [https://github.com/Ben987/Bondage-Club-Server](https://github.com/Ben987/Bondage-Club-Server)
 
+> ℹ️ If you notice any issues with this guide, or would like to suggest improvements, you can raise an issue here in Github, or get in touch with Ellie#7890 in the [Club Discord](https://discord.gg/dkWsEjf).
+
 ## UI Setup
+
+[Top of page](#developer-setup)
 
 To run the UI standalone, pointed at the live server, all that's needed is a simple HTTP server to serve up @BondageClub/index.html@. There are several options here, and this page will cover a handful. Below are two easy options, and further down are a couple of more advanced options (which might be useful for those already fairly familiar with PHP or Python).
 
@@ -94,6 +115,8 @@ python3 -m http.server
 Once the server has started, you should be able to browse to [http://localhost:8000](http://localhost:8000) in your browser, and the game should be running.
 
 ## Server Setup
+
+[Top of page](#developer-setup)
 
 To run the server locally, you will need a MongoDB server listening on the default port (27017), and a working Node JS/npm installation. If you already have both of these, you can safely skip to the Running the server section below.
 
