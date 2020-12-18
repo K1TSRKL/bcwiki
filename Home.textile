@@ -4,7 +4,7 @@ We try to do a comprehensive documentation of the clubs data types and functions
 
 h2. Guides
 
-"Developer Setup":/Ben987/Bondage-College/wiki/DevSetup
+"Developer Setup":/Ben987/Bondage-College/wiki/Developer-Setup
 
 "Guide to Dynamic Assets":/Ben987/Bondage-College/wiki/DynamicAssets
 
