@@ -32,7 +32,7 @@ This guide (currently) assumes you have already cloned the relevant repositories
 
 [Top of page](#developer-setup)
 
-To run the UI standalone, pointed at the live server, all that's needed is a simple HTTP server to serve up @BondageClub/index.html@. There are several options here, and this page will cover a handful. Below are two easy options, and further down are a couple of more advanced options (which might be useful for those already fairly familiar with PHP or Python).
+To run the UI standalone, pointed at the live server, all that's needed is a simple HTTP server to serve up `BondageClub/index.html`. There are several options here, and this page will cover a handful. Below are two easy options, and further down are a couple of more advanced options (which might be useful for those already fairly familiar with PHP or Python).
 
 ### Running a dev server through your IDE
 
@@ -72,7 +72,7 @@ Copyright (c) The PHP Group
 Zend Engine v3.4.0, Copyright (c) Zend Technologies
 ```
 
-Once you have PHP installed, navigate to the @BondageClub@ directory inside the repository, and run:
+Once you have PHP installed, navigate to the `BondageClub` directory inside the repository, and run:
 
 ```
 php -S localhost:8000
@@ -98,7 +98,7 @@ If Python is installed correctly, you should see something like this printed:
 Python 2.7.17
 ```
 
-Once you have Python installed, navigate to the @BondageClub@ directory inside the repository. Then, depending on your python version, you'll need to run a different command to start the server.
+Once you have Python installed, navigate to the `BondageClub` directory inside the repository. Then, depending on your python version, you'll need to run a different command to start the server.
 
 #### Python 2.x
 
@@ -127,7 +127,7 @@ The server stores user accounts inside a MongoDB database, so you'll need a Mong
 * [You can download MongoDB for your OS here.](https://www.mongodb.com/try/download/community)
 * [MongoDB has comprehensive for installation on most operating systems here](https://docs.mongodb.com/manual/installation/#install-mongodb)
 
-Once MongoDB has been installed, you should make sure that the `mongo` and `mongod` executables are available on your @PATH@ environment variable. They are usually found in:
+Once MongoDB has been installed, you should make sure that the `mongo` and `mongod` executables are available on your `PATH` environment variable. They are usually found in:
 
 ```
 <mongo installation directory>/Server/<version number>/bin
@@ -224,7 +224,7 @@ That's it! Your local server is now up and running. The last thing that needs to
 
 ### Pointing the UI to your local server
 
-To get the UI to use your local server, you need to make one small edit to the @BondageClub/index.html@ file in the `Bondage-College` repository. Comment out the following line from the `window.onload` callback function:
+To get the UI to use your local server, you need to make one small edit to the `BondageClub/index.html` file in the `Bondage-College` repository. Comment out the following line from the `window.onload` callback function:
 
 ```js
 ServerURL = "https://bondage-club-server.herokuapp.com/";
