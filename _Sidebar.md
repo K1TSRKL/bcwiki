@@ -13,4 +13,6 @@
 
 ***
 
+#### Other Stuff
+
 [JavaScript Documentation](/Ben987/Bondage-College/wiki/JSDoc)
