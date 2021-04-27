@@ -6,21 +6,18 @@ We try to do a comprehensive documentation of the clubs data types and functions
 
 ### Getting Started
 
-[Git Tutorial](https://docs.google.com/document/d/1wA_pcIWR105JU-o--U93Qrygtwqjc5IGWGCx9Qhw85c/edit) (Google Docs link)
-
-[Developer Setup](/Ben987/Bondage-College/wiki/Developer-Setup)
+* [Git Tutorial](https://docs.google.com/document/d/1wA_pcIWR105JU-o--U93Qrygtwqjc5IGWGCx9Qhw85c/edit) (Google Docs link)
+* [Developer Setup](/Ben987/Bondage-College/wiki/Developer-Setup)
 
 ### Adding new things to BC
 
-[Item Creation](/Ben987/Bondage-College/wiki/ItemCreation)
-
-[Creating a new dialog](/Ben987/Bondage-College/wiki/NewDialog)
-
-[Creating a new screen](/Ben987/Bondage-College/wiki/NewScreen)
+* [Item Creation](/Ben987/Bondage-College/wiki/ItemCreation)
+* [Creating a new dialog](/Ben987/Bondage-College/wiki/NewDialog)
+* [Creating a new screen](/Ben987/Bondage-College/wiki/NewScreen)
 
 ### Advanced Features
 
-[Guide to Dynamic Assets](/Ben987/Bondage-College/wiki/DynamicAssets)
+* [Guide to Dynamic Assets](/Ben987/Bondage-College/wiki/DynamicAssets)
 
 ## API Documentation
 
