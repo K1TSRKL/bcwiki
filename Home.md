@@ -4,9 +4,11 @@ We try to do a comprehensive documentation of the clubs data types and functions
 
 ## Guides
 
-[Developer Setup](/Ben987/Bondage-College/wiki/Developer-Setup)
+### Getting Started
 
-[Guide to Dynamic Assets](/Ben987/Bondage-College/wiki/DynamicAssets)
+[Git Tutorial](https://docs.google.com/document/d/1wA_pcIWR105JU-o--U93Qrygtwqjc5IGWGCx9Qhw85c/edit) (Google Docs link)
+
+[Developer Setup](/Ben987/Bondage-College/wiki/Developer-Setup)
 
 ### Adding new things to BC
 
@@ -16,15 +18,15 @@ We try to do a comprehensive documentation of the clubs data types and functions
 
 [Creating a new screen](/Ben987/Bondage-College/wiki/NewScreen)
 
-### API Documentation
+### Advanced Features
+
+[Guide to Dynamic Assets](/Ben987/Bondage-College/wiki/DynamicAssets)
+
+## API Documentation
 
 We are starting to document the data structures and the main functions of the BC game, as a help to future contributors.
 
-#### Data structures
-
-[[Assets]]
-
-#### Modules
+### Modules
 
 We are adding [JSDoc](https://jsdoc.app/index.html) comments to all functions in the various scripts, as we edit them. The resulting documentation pages are then collected and shared on this wiki. We hope to help all contributors with this.
 
