@@ -1,5 +1,5 @@
 # Introduction
-Drawing hooks are a way to incorporate activities that happen during character rendering without adding special cases to code. To understand them you must first understand the drawing order:
+Drawing hooks are a way to incorporate code that happens during character rendering without adding special cases to other drawing functions. To understand them you must first understand the drawing order:
 1. The player sprite is rendered whenever there is a change that requires updating the canvas. It is not redrawn every frame, but it is redrawn whenever a new hook is added or removed.
 2. The function in which the drawing happens is CharacterLoadCanvas(C) in Character.js
 3. The first thing to note is that as of May 2021, the drawing code refers to two variables which store character appearance and code (DrawAppearance and DrawPose). These are copies of the Appearance and Pose array that are used to allow drawing hooks to change rendering without changing the items or pose on a character. The copies are made at the start of CharacterLoadCanvas(C)
