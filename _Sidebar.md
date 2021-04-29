@@ -10,6 +10,7 @@
   * [Dialogs](/Ben987/Bondage-College/wiki/NewDialog)
   * [Screens](/Ben987/Bondage-College/wiki/NewScreen)
 * [Guide to Dynamic Assets](/Ben987/Bondage-College/wiki/DynamicAssets)
+* [Guide to Drawing Hooks](/Ben987/Bondage-College/wiki/Guide-to-Drawing-Hooks)
 
 ***
 
