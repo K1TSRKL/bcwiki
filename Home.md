@@ -18,6 +18,7 @@ Welcome to the Bondage Club wiki! The wiki is primarily intended as a resource f
 ### Advanced Features
 
 * [Guide to Dynamic Assets](/Ben987/Bondage-College/wiki/DynamicAssets)
+* [Guide to Drawing Hooks](/Ben987/Bondage-College/wiki/Guide-to-Drawing-Hooks)
 
 ## API Documentation
 
