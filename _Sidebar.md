@@ -1,4 +1,6 @@
-[There's no place like...](/Ben987/Bondage-College/wiki/)
+#### Important Links
+
+[🏠 Wiki Home](/Ben987/Bondage-College/wiki/)
 
 ***
 
