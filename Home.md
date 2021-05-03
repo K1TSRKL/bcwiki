@@ -11,7 +11,7 @@ Welcome to the Bondage Club wiki! The wiki is primarily intended as a resource f
 
 ### Adding new things to BC
 
-* [Item Creation](/Ben987/Bondage-College/wiki/ItemCreation)
+* [Asset Creation](/Ben987/Bondage-College/wiki/Asset-Creation)
 * [Creating a new dialog](/Ben987/Bondage-College/wiki/NewDialog)
 * [Creating a new screen](/Ben987/Bondage-College/wiki/NewScreen)
 
