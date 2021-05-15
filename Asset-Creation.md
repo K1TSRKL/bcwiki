@@ -8,12 +8,9 @@ This is intended to a (fairly ambitious) multi-part guide that will walk people 
 
 One of the most common things that people contribute to Bondage Club is new assets. These include clothes, accessories, and of course, bondage gear. The basics of adding an asset are very simple once you know how, but there are a myriad of advanced features, tools and techniques available to asset makers that allow creators to customise their assets to their liking.
 
-## TODO List
+## Asset Creation Guides
 
-* Basic item creation - clothes
-* Poses
-* Layers & colouring
-* Restraints
-* Locks
-* Extended Items
-* Advanced techniques
+If you're new to assets or contributing to Bondage Club in general, it's recommended that you follow these guides in order. They are also (hopefully) organised in such a way that you can use this list to quickly reference specific topics later.
+
+* [[Part 1: The Basics|Asset-Creation-1:-The-Basics]]
+* [[Part 2: Getting Started]]
