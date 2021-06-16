@@ -1,1 +1,0 @@
-# Asset Creation 2: Getting Started
