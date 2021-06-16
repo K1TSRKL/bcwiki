@@ -44,4 +44,4 @@ In this section, we've learned about groups, assets, layers and priorities, and 
 
 | Previous Guide | Next Guide |
 |---|---|
-| - | [[Part 2: Getting Started\|Asset-Creation-2:-Getting-Started]] |
+| - | [[Part 2 - Getting Started\|Asset-Creation-2---Getting-Started]] |
