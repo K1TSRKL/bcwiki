@@ -1,4 +1,4 @@
-# Asset Creation 1: The Basics
+# Asset Creation 1 - The Basics
 
 ## The Asset Drawing System - Key Concepts
 
