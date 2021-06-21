@@ -1,5 +1,3 @@
-# Asset Creation 1 - The Basics
-
 ## The Asset Drawing System - Key Concepts
 
 Before we dive into creating assets, it's important to understand how they're structure, and how the game's rendering system draws them. There are a few key concepts we're going to look at in this section:
