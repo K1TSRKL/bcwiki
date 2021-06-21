@@ -1,5 +1,3 @@
-# Asset Creation
-
 This is intended to a (fairly ambitious) multi-part guide that will walk people through all the necessary aspects of asset creation.
 
 > ⚠️ This is a work in progress. There are a lot of things to cover, so if something is missing, please check back later.
