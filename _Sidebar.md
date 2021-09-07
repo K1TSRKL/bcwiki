@@ -1,6 +1,7 @@
 #### Important Links
 
-[🏠 Wiki Home](/Ben987/Bondage-College/wiki/)
+* [🏠 Wiki Home](/Ben987/Bondage-College/wiki/)
+* [🛡️ Player Safety](/Ben987/Bondage-College/wiki/Player-Safety)
 
 ***
 
