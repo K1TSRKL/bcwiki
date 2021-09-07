@@ -1,4 +1,4 @@
-We know, security is boring. But safety is one of the core principles of practicing BDSM, and we'd encourage you to take the same approach in the game. If you can spare 5 minutes to read through this page, you'll know just about everything you need to stay safe in the club.
+We know, security is boring. But safety is one of the core principles of practicing BDSM, and we'd encourage you to take the same approach in the game. If you can spare 10 minutes to read through this page, you'll know just about everything you need to stay safe in the club.
 
 ## Table of Contents
 
