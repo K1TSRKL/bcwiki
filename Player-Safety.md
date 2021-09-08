@@ -72,7 +72,7 @@ If you spot URLs or web addresses embedded inside a script, it could be a sign t
 If someone goes to lengths to hide what a piece of code is doing, they could be trying to hide malicious code (or they might not know what they're doing, or just be trying to show off). Look out for uses of the `eval` function, and obfuscated strings using the `atob`/`btoa` functions. For example:
 
 ```js
-eval(atob("UGxheWVyLk5hbWU="))
+eval(atob("YWxlcnQoIldoYXQgZGlkIEkgdGVsbCB5b3UgYWJvdXQgcnVubmluZyByYW5kb20gc2NyaXB0cz8iKQ=="))
 ```
 
 Similarly code that looks like this (known as [JSFuck][5]) is almost certainly trying to hide what it does:
