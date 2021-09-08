@@ -22,7 +22,7 @@ Much like every other online account you might possess, the number one rule for 
 
 We'd also strongly recommend connecting an email address to your Bondage Club account, which you can do through your account Security Preferences page. This will allow you to reset your password or recover your account in the event that you lose access to it. Your email is stored on the game's server and never sent to game clients (even your own), and is not used for anything other than password resets and account recovery.
 
-> ℹ️ If you lose access to (or forget) your email address, you will be unable to reset your password or recover your account
+> ℹ️ If you forget your email address, you will be unable to reset your password or recover your account
 
 ### Use strong passwords
 
