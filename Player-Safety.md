@@ -4,6 +4,7 @@ We know, security is boring. But safety is one of the core principles of practic
 
 * [Account security](#account-security)
 * [Scripts & browser extensions](#scripts--browser-extensions)
+* [Roleplay Safety](#roleplay-safety)
 
 ---
 
@@ -97,6 +98,42 @@ Before running a script, you should always know what it does, or that it comes f
 * If you're not sure what a script does or whether it's safe, you can request help from one of the game developers (anyone with a green name) in the programming channel of the [Bondage Projects Discord][4].
 
 ---
+
+## Roleplay Safety
+
+At its heart, the multiplayer element of Bondage Club revolves around roleplay. This page isn't intended to be a roleplay guide, but we do have some tips that should help to make the club a safe environment where players can enjoy roleplaying with others.
+
+### Communication is key
+
+The single most important part of roleplaying is communication. Make sure you talk to the person you're roleplaying with before starting, and constantly whilst playing. Agree a safeword (and/or action) and let each other know if you're not comfortable with the way a roleplay is going. To avoid breaking immersion, you can use OOC (start a line with `(`) or whispers (click on the lower portion of a player's avatar, by their feet to toggle whispering) to communicate when roleplaying.
+
+Note that the club has some immersion features that can prevent players from using OOC or whispers when gagged. We recommend that players not use these settings unless they trust the people they're playing with. If you need to break immersion, you can still communicate with actions by starting a message with `**` or `/action`.
+
+### Safewords
+
+As well as agreeing a safeword with the person you're roleplaying with, the game also provides safeword functionality. You should only use this in the event of a communication breakdown, but it does provide players with a backup option if they're no longer comfortable with a roleplay. To use your safeword, click on your character, and select "(Use your safeword.)". You will then get the option to either revert your character to the way they were when entering the chat lobby, or to release them completely.
+
+Note that it is possible to disable the safeword feature through player preferences (either directly, or as a result of using Hardcore or Extreme difficulty). Again, we recommend that players only disable their safeword if they fully trust the people they're playing with.
+
+### Blacklisting, ghosting and banning
+
+Sometimes, all the communication in the world won't help with players who have decided to deliberately harass or troll others or be a general nuisance. Bondage Club also comes with a few ways to manage the people that you interact with to help avoid such players.
+
+You can blacklist or ghost another player by clicking another player, clicking "(Manage your relationship.)", and then clicking either "(Add to item blacklist.)" or "(Ghost and ignore her.)". Blacklisting a player will prevent them from being able to interact with you or add, remove or change items or clothing on you, but you will still see their chat messages. Ghosting a player will prevent you from seeing anything they enter into the chat. By default, ghosting a player will also add them to your blacklist.
+
+If you know a player's member number (you can turn on member numbers in chat through your chat preferences), you can also blacklist or ghost them by entering the following / commands into the chat (replace "00000" with their member number):
+
+```
+/blacklistadd 00000
+/ghostadd 00000
+```
+
+In addition to blacklisting and ghosting, chatroom administrators are also able to kick or ban players from their chatroom. Banned players will not be able to re-enter a chatroom unless an administrator un-bans them. To kick or ban a player, click on them, click "(Room administrator action.)", then click "(Call the maids to escort her out of the room.)" to kick them, or "(Ban her from the room.)" to ban them. If you know their member number, you can also do this via chat commands (replace "00000" with their member number):
+
+```
+/kick 00000
+/ban 00000
+```
 
 [1]: https://nordpass.com/most-common-passwords-list/ "NordPass Top 200 passwords list"
 [2]: https://haveibeenpwned.com/ "Have I Been Pwned"
