@@ -83,7 +83,7 @@ Similarly code that looks like this (known as [JSFuck][5]) is almost certainly t
 
 #### Excessively long scripts
 
-The longer a piece of code is, the more effort it takes to accurately identify what it does. Most basic things in the club can be done in just a few lines of code. If someone sends you a script that's hundreds or thousands of lines long, be cautious, especially if it sounds like it's only doing something simple.
+The longer a piece of code is, the more effort it takes to accurately identify what it does. Most basic things in the club can be done in just a few lines of code. If someone sends you a script that's hundreds or thousands of lines long, be cautious, especially if they tell you it's doing something that sounds quite simple.
 
 #### The bottom line
 
