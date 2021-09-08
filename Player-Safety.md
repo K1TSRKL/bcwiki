@@ -18,6 +18,12 @@ Much like every other online account you might possess, the number one rule for 
 
 > ⚠️ **Never give anyone your account name or password**
 
+### Link an email address
+
+We'd also strongly recommend connecting an email address to your Bondage Club account, which you can do through your account Security Preferences page. This will allow you to reset your password or recover your account in the event that you lose access to it. Your email is stored on the game's server and never sent to game clients (even your own), and is not used for anything other than password resets and account recovery.
+
+> ℹ️ If you lose access to (or forget) your email address, you will be unable to reset your password or recover your account
+
 ### Use strong passwords
 
 Even if nobody knows your password, that doesn't matter if it's easy to guess or brute-force.
@@ -25,12 +31,6 @@ Even if nobody knows your password, that doesn't matter if it's easy to guess or
 * Avoid common passwords. [Check your password against this list][1] (you can press `Ctrl+F` to search for your password in the list). If your password is on there, it's strongly recommended that you change it.
 * Keep your passwords as long as possible. Length is the easiest way to make passwords difficult to brute-force. Bondage Club currently supports alphanumeric passwords of up to 20 characters in length, and we recommend that you make use of as much of that length as you can.
 * If you use the same password across different accounts and services, check your email address(es) against [Have I Been Pwned][2] - this will let you know if your email address and/or corresponding password has been leaked in a data breach, and when it happened. If it has, and you're still using the same password, it's strongly recommended that you change your password for that email address and any other services that use the same password.
-
-### Link an email address
-
-We'd also recommend connecting an email address to your Bondage Club account, which you can do through your account Security Preferences page. This will allow you to reset your password or recover your account in the event that you lose access to it. Your email is stored on the game's server and never sent to game clients (even your own), and is not used for anything other than password resets and account recovery.
-
-> ℹ️ If you lose access to (or forget) your email address, you will be unable to reset your password or recover your account
 
 ### Don't visit weird links
 
@@ -94,7 +94,7 @@ If you take nothing else away from this, take this:
 Before running a script, you should always know what it does, or that it comes from a trusted source.
 
 * If you have some coding experience, read the script yourself to verify that it is harmless
-* Make sure you trust the source of the script - don't just go running snippets of code that you found in random person's bio
+* Make sure you trust the source of the script - don't just go running snippets of code that you found in random person's bio (and not only should you trust the source, but also trust that they know what they're doing when it comes to scripts)
 * If you're not sure what a script does or whether it's safe, you can request help from one of the game developers (anyone with a green name) in the programming channel of the [Bondage Projects Discord][4].
 
 ---
