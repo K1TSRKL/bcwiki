@@ -18,6 +18,6 @@ Later, I might insert some of the topics that I've removed from the normal class
 
 ## Major Topics
 
-* "The four ways of talking".  Or, how to use the typing box.  The methods are normal talking, actions (or "emotes"), OOC, and the whisper.  
+* ["The Four Ways of Talking"](https://github.com/zorgjbe/Bondage-College/wiki/The-Four-Ways-of-Talking): Or, how to use the typing box.  The methods are normal talking, actions (or "emotes"), OOC, and the whisper.  
 
 
