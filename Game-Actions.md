@@ -4,9 +4,9 @@ I'm going to assume that everybody already knows how to apply and remove basic r
 
 * If you haven't, I recommend that everybody go through the club's "introductory class".  Go to the main club, and select the icon that looks like a letter "i" inside a circle.  It will teach you how to apply, remove, and to (attempt to) struggle out of basic restraints.  And at the end it will give you several basic restraints that everybody else got for free when they started out as new players.  
 
-**I'm going to use the pronouns "you" and "me", to illustrate how you can perform a game action on me.**
+**How to perform a game action**
 
-Now.  Performing a game action (I call them "game actions", because they are actions which the game actually recognizes), it starts out the same as if you were applying a restraint to me.  
+Performing a game action (I call them "game actions", because they are actions which the game actually recognizes), like applying a restraint. (I'm going to use the pronouns "you" and "me", as though you are performing a game action on me.)  
 
 * Click on me.  This will take you to a screen that just has you and me on it.  
 * Click on me again.  This will draw the boxes, the "zones" over me.  
