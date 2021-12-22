@@ -32,11 +32,11 @@ If you put a "(" in front of your typing, it won't look any different.  But it h
 
 **Aylea:**  ( I have to leave for work in 10 minutes
 
-The "(" in front of that message signals everybody (including the game) that the message is "Out Of Character".  Or "OOC").  It means it didn't come from Aylea, it came from the person at Aylea's keyboard.  
+The "(" in front of that message signals everybody (including the game) that the message is "Out Of Character".  (Or "OOC").  It means it didn't come from Aylea, it came from the person at Aylea's keyboard.  
 
-Everybody in the room will pretend that they didn't see that message.  (Or maybe they'll respond out of character as well.  Maybe with "( OK.  See you tomorrow".  
+Everybody in the room will pretend that they didn't see that message.  (Or maybe they'll respond out of character as well.  Maybe with "( OK.  See you tomorrow").  
 
-But, the person who was tying me up and teasing me?  Knows that she needs to be wrapping things up.  The scene can come to an orderly shutdown.  
+But, the person who was tying me up and teasing me?  Now she knows that she needs to be wrapping things up.  The scene can come to an orderly shutdown.  
 
 It's used for things like " (Bathroom break.  Back in 5."  
 
@@ -44,7 +44,7 @@ It's used for things like " (Bathroom break.  Back in 5."
 
 Whispers are the most complicated type of "talking" to perform.  
 
-Say that you and I are in a room, with several other people.  
+Say that you and I are in a room, along with several other people.  
 
 On the part of the screen where our avatars are, click on my name down at the bottom.  Where my feet are, if I'm standing.  
 
@@ -52,8 +52,9 @@ A small icon will appear next to my name.  And the grey text in the typing box w
 
 Then type something, say "test of whisper", in the typing box, and press Enter.  
 
-Your chat log window will show "_Whisper to Aylea:  test of whisper_".
-And I will receive a message like "_YourName: Test of whisper_".  
+* Your chat log window will show "_Whisper to Aylea:  test of whisper_".
+
+* And I will receive a message like "_**YourName:** Test of whisper_".  
 
 To exit whisper, either click my name again, or click your own name.  
 
