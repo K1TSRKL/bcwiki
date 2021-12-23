@@ -1,4 +1,4 @@
-# The "Manage my relarionship" lists.  
+# The "Manage my relationship" lists.  
 
 If you click on another player, one of the buttons you will see next to them is "Manage my relationship".  If you click on that button, it will give you the options to place that person on one of four lists.  
 
@@ -9,7 +9,7 @@ If you click on another player, one of the buttons you will see next to them is 
 
 These lists are exclusive to you.  They are _your_ lists.  
 
-**None of these lists are permanent.**  You can take people off them, too.  For example, if you click to put somebody on your whitelist, then the next time you go to "manage my relationship" with them, the "add to whitelist" button will be a "Remove from whitelist" button.  
+**None of these lists are permanent.**  You can take people off them.  For example, if you click to put somebody on your whitelist, then the next time you go to "manage my relationship" with them, the "add to whitelist" button will be a "Remove from whitelist" button.  
 
 **None of these lists notifies _the other person_ that you've done it.**  The only way somebody can tell that you've put them on a list, is by the effects that it might cause.  
 
