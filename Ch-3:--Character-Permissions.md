@@ -50,7 +50,9 @@ Assuming that you're standing in a chatroom:
 There are two permission settings that I recommend against people using.  Here's my reasons why:  
 
 * "Owner, lover, whitelist, dominants".  (Yes, this is the default setting for new players.)  I advise people against this setting, because it grants or denies access to you, based on somebody's "dominant/submissive" reputation.  And I can tell you with absolute certainty that there is nothing about a "dominant" reputation that makes somebody more worthy of your trust.  (It might even be the opposite.)  
-* "Everybody, no exceptions".  I recommend against this setting, because I have the opinion that _some_ people in the club will see that setting on your profile, and think "Gee, she's really asking for it".  My advice to people who want to be risk takers, is to use "Everybody but blacklist", and then simply don't blacklist anybody.  You get the same result (everybody in the club has access to you), without sending the message that you might not want to send.  
+* "Everybody, no exceptions".  I recommend against this setting, and recommend people stick with "Everybody but blacklist" instead.  
+As long as you don't _want_ to blacklist anybody, the two settings are identical.  
+But, if you're ever in a situation where you think that blacklist is the right choice, then you don't want to have to be figuring out how to change your permission setting, _before_ blacklisting will have any effect.  
 
 ## What the settings mean, to a player.  
 
@@ -66,7 +68,7 @@ Unless I blacklist them.  Then they can't touch me at all.
 
 It means "everybody has access to me, except the specific people I individually deny access to."
 
-Now, for me?  There's one way somebody gets on my blacklist.  Hit me, or somebody else, with a whip or a restraint, without discussing it with them first.  (OK, actually, there is one person who got on there for something else.  A special case.) 
+Now, for me?  There's one way somebody gets on my blacklist.  Hit me, or somebody else, with a whip or a restraint, without getting consent first.  
 
 I've been a club member for 500 days.  And there's around 60 people on my blacklist.  And around 20 of them are one person.  A famous club troll who hasn't been around for months.  
 
