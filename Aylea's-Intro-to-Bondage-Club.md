@@ -18,9 +18,13 @@ Later, I might insert some of the topics that I've removed from the normal class
 
 ## Major Topics
 
-* ["The Four Ways of Talking"](https://github.com/zorgjbe/Bondage-College/wiki/The-Four-Ways-of-Talking): Or, how to use the typing box.  The methods are normal talking, actions (or "emotes"), OOC, and the whisper.  
+* ["The four ways of talking"](https://github.com/zorgjbe/Bondage-College/wiki/Ch-1:-The-Four-Ways-of-Talking): Or, how to use the typing box.  The methods are normal talking, actions (or "emotes"), OOC, and whisper.  
 
-* [Game Actions](https://github.com/zorgjbe/Bondage-College/wiki/Game-Actions): Things like pet, kiss, spank.  And the famous "boop".  
+* [Game Actions](https://github.com/zorgjbe/Bondage-College/wiki/Ch-2:-Game-Actions): Things like pet, kiss, spank.  And the famous "boop".  
+
+* [Character permissions](https://github.com/zorgjbe/Bondage-College/wiki/Ch-3:--Character-Permissions):  Deciding who can do things to you. 
+
+* [The "manage my relationship" lists](https://github.com/zorgjbe/Bondage-College/wiki/Ch-3.1:--The-%22manage-my-relationship%22-lists): I've listed all the "lists" on a separate page.  The ghost, black, white, and friend lists.  
 
 
 
