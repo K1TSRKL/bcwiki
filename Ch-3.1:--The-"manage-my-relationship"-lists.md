@@ -60,7 +60,7 @@ And the ghost list had hidden all the restraint messages from me.
 
 I un-ghosted her.  And haven't used it since.  Now days, if somebody who's on my blacklist comes into a room, I want to get told if they do anything.  
 
-## Whitelist
+### Whitelist
 
 Putting people on your whitelist _can_ give them more access to do things to you, than if they weren't on whitelist.  
 
@@ -74,7 +74,7 @@ Really, how much whitelist affects a person, will depend on other options you've
 
 A lot of things, "whitelist" means "bypass all restrictions, this person is trusted".  But that's not what it means here in the club.  Yes, people on whitelist can still have restrictions on them.  
 
-## Friend list
+### Friend list
 
 Adding somebody to your friend list does not require the other person's permission.  But, it also doesn't do much, unless the other person adds you to their friend list, too.  
 
