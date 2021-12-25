@@ -2,7 +2,11 @@
 
 Welcome to the Bondage Club wiki! The wiki is primarily intended as a resource for developers and contributors to the game, and a place to help new contributors get started with adding new content to the game. This is still something of a work-in-progress, and will develop over time. If you think something is missing from the wiki, or have some knowledge about a topic and would like to contribute some content yourself, feel free to get in touch with one of the developers over on [the game's Discord server](https://discordapp.com/invite/dkWsEjf).
 
-## Guides
+## User Guides
+
+* [Aylea's Intro to Bondage Club'](./Aylea's-Intro-to-Bondage-Club)
+
+## Developer Guides
 
 ### Getting Started
 
