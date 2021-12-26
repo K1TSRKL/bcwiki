@@ -18,15 +18,19 @@ Later, I might insert some of the topics that I've removed from the normal class
 
 ## Major Topics
 
-* ["The four ways of talking"](./Ch-1:-The-Four-Ways-of-Talking): Or, how to use the typing box.  The methods are normal talking, actions (or "emotes"), OOC, and whisper.  
+* ["The four ways of talking"](./Aylea's-Intro-The-Four-Ways-of-Talking): Or, how to use the typing box.  The methods are normal talking, actions (or "emotes"), OOC, and whisper.  
 
-* [Game Actions](./Ch-2:-Game-Actions): Things like pet, kiss, spank.  And the famous "boop".  
+* [Game Actions](./Aylea's-Intro-Game-Actions): Things like pet, kiss, spank.  And the famous "boop".  
 
-* [Character permissions](./Ch-3:--Character-Permissions):  Deciding who can do things to you. 
+* [Character permissions](./Aylea's-Intro-Character-Permissions):  Deciding who can do things to you. 
 
-* [The "manage my relationship" lists](./Ch-3.1:--The-%22manage-my-relationship%22-lists): I've listed all the "lists" on a separate page.  The ghost, black, white, and friend lists.  
+* [The "manage my relationship" lists](./Aylea's-Intro-The-%22manage-my-relationship%22-lists): I've listed all the "lists" on a separate page.  The ghost, black, white, and friend lists.  
 
 * [Emergency Release Methods](./Aylea's-Intro-Emergency-Release-Methods): How to get untied in a hurry, if you need to.  
+
+* [Things to buy](./Aylea's-Intro-Things-to-Buy): The items I advise all new players to buy.  Includes a discussion of how the club handles items you do and don't own.  And is going to include a discussion of "Ways to make money"  
+
+* Ownership and Lover Relationships.  (Not yet written).  
 
 
 
