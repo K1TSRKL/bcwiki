@@ -30,7 +30,7 @@ Later, I might insert some of the topics that I've removed from the normal class
 
 * [Things to buy](./Aylea's-Intro-Things-to-Buy): The items I advise all new players to buy.  Includes a discussion of how the club handles items you do and don't own.  And is going to include a discussion of "Ways to make money"  
 
-* Ownership and Lover Relationships.  (Not yet written).  
+* [Ownership and Lover Relationships.](./Aylea's-Intro-Owner-and-Lover-Relationships):  The rules for Owner and Lover relationships.  (And advice on them.)  
 
 
 
