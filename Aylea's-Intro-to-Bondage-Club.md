@@ -26,5 +26,8 @@ Later, I might insert some of the topics that I've removed from the normal class
 
 * [The "manage my relationship" lists](./Ch-3.1:--The-%22manage-my-relationship%22-lists): I've listed all the "lists" on a separate page.  The ghost, black, white, and friend lists.  
 
+* [Emergency Release Methods](./Aylea's-Intro-Emergency-Release-Methods): How to get untied in a hurry, if you need to.  
+
+
 
 
