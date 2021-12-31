@@ -46,9 +46,15 @@ Whispers are the most complicated type of "talking" to perform.
 
 Say that you and I are in a room, along with several other people.  
 
+![Imgur](http://imgur.com/ojANZjj)
+
 On the part of the screen where our avatars are, click on my name down at the bottom.  Where my feet are, if I'm standing.  
 
+![](https://imgur.com/dCC5gPM)
+
 A small icon will appear next to my name.  And the grey text in the typing box will change from "Talk to everyone" to "Whisper to Aylea".  
+
+![](https://imgur.com/wLXZxy0)
 
 Then type something, say "test of whisper", in the typing box, and press Enter.  
 
