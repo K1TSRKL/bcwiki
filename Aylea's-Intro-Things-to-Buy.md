@@ -1,8 +1,8 @@
 # Things to buy
 
-There are four things that I recommend all new players should buy in the store, as soon as they can.  I'm going to give you the items, and then explain _way_ the items are important.  The "why" part will also tell you some things about how the game handles items that you do or don't own.  
+There are four things that I recommend all new players should buy in the store, as soon as they can.  I'm going to give you a list of the items, and then explain _way_ the items are important.  The "why" part will also tell you some things about how the game handles items that you do or don't own.  
 
-The items, from the ones I recommend first to last, are:  
+The items, starting with the one I recommend you get first, are:  
 
 1. Wireless toy remote
 2. Metal padlock key
