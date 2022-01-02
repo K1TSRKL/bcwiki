@@ -44,29 +44,27 @@ It's used for things like " (Bathroom break.  Back in 5."
 
 Whispers are the most complicated type of "talking" to perform.  
 
-Say that you and I are in a room, along with several other people.  
-
-![](https://imgur.com/dCC5gPM.png)
+Say that you and I are in a room, along with several other people.  And you want to whisper to Saavik.  
 
 On the part of the screen where our avatars are, click on my name down at the bottom.  Where my feet are, if I'm standing.  
 
-![How to whisper - 1](https://imgur.com/ZFiFBfZ.png)
+![Where to click](https://imgur.com/hoFhZUO.png)
 
-A small icon will appear next to my name.  And the grey text in the typing box will change from "Talk to everyone" to "Whisper to Aylea".  
+A small icon will appear next to Saavik's name.  And the grey text in the typing box will change from "Talk to everyone" to "Whisper to Saavik".  
 
-![](https://imgur.com/wLXZxy0.png)
+![Ready to whisper](https://imgur.com/WnsJLqX.png)
 
 Then type something, say "test of whisper", in the typing box, and press Enter.  
 
-* Your chat log window will show "_Whisper to Aylea:  test of whisper_".
+* Your chat log window will show "_Whisper to Saavik:  test of whisper_".
 
-* And I will receive a message like "_**YourName:** Test of whisper_".  
+* And Saavik will receive a message like "_**YourName:** Test of whisper_".  
 
-![](https://imgur.com/viXtyH9.png)
+![Whisper sent, and received](https://imgur.com/7xKgkKB.png)
 
 To exit whisper, either click my name again, or click your own name.  
 
-![](https://imgur.com/jupLYmt.png)
+![Whispering done](https://imgur.com/ENxKh69.png)
 
 Whispers only go to one person in the room.  Other people in the room don't see them.  
 
