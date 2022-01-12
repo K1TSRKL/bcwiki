@@ -1,17 +1,15 @@
 # Emergency Release Methods
 
-During your time in the club, there will be times when you will need to get loose from various restraints.  There's lots of ways it can happen.  Some of the NPC club jobs "accidentally" leave you tied up at the end of the job. Or people, for one reason or another, may leave you tied up after some play.  
+During your time in the club, there will be times when you will need to get released from various restraints.  There's lots of ways it can happen.  Some of the NPC club jobs "accidentally" leave you tied up at the end of the job. Or people, for one reason or another, may leave you tied up after some play.  
 
 There are numerous ways of dealing with this situation.  And it's your choice how you will.  But here, I'm going to show you the game's "safety net" systems, for times when you really want to get untied, right now.  
 
-* I'll also mention.  One of the methods that people use to get loose, is to simply walk into chat rooms, and either ask people to help you, or wait for them to offer.  It's not _guaranteed_ to get you untied.  The other people are people after all, and not always predictable.  But then, a lot of people like that little trill of things that _might_ happen.  And from what I've seen, the club is really full of people who will help you.  
+I'll mention that the method most people use to get freed, is to simply walk into chat rooms, and either ask people to help you, or wait for them to offer.  It's not _guaranteed_ to get you untied — the other people are people after all, and not always predictable. But then, a lot of people like that little trill of things that _might_ happen.  And from what I've seen, the club is really full of people who will help you.  
 
-* And, if you have a **really** tough problem?  Something where you're stuck between a couple of rules that seem to leave you no way out, or something?  One thing that I've seen people do, is to create a room with a name like "I Need Help", and wait for someone who wants to be a White Knight to show up.  I can tell you, every time I see a room like that, I instantly respond and offer help.  And I have almost never seen such a room where there wasn't already two people there, who saw it before I did and are already helping.  
+And, if you have a **really** tough problem?  Something where you're stuck between a couple of rules that seem to leave you no way out, or something?  One thing that I've seen people do, is to create a room with a name like "I Need Help", and wait for someone who wants to be a White Knight to show up.  I can tell you, every time I see a room like that, I instantly respond and offer help.  And I have almost never seen such a room where there wasn't already two people there, who saw it before I did and are already helping.  
 If you _do_ set up such a room?  I'll request that when you're done, you shut down the room.  To avoid leaving a room with a name like that, sitting around without somebody inside who actually needs the help.  
 
-
 ***
-
 
 The game creators have created three main systems for rescuing stuck players.  
 
@@ -19,19 +17,17 @@ The game creators have created three main systems for rescuing stuck players.
 2. Safeword "revert"
 3. Safeword "release"
 
-If you only want to learn about one, I recommend safeword "release".  The other two have details about them which make them more complicated.  (And which can sometimes cause them to backfire).  But safeword "release" is simple, and reliable.  
+If you only want to learn about one, I recommend safeword "release".  The other two have details about them which make them more complicated, and which can sometimes cause them to backfire.  But safeword "release" is simple, and reliable.  
 
 ## The rescue maid
 
 First, I need to mention.  The game has a lot of players in it who may have the _title_ of "maid".  And many players who may _dress_ as a maid.  But the actual rescue maid is an computer-operated character located in the game's main hall.  I'm going to be talking about her.  
 
-When I joined the club, the rescue maid was the game's only emergency release method.  (And yes, I walked to school.  In the snow.  Uphill.  Both ways.)  
+When I joined the club, the rescue maid was the game's only emergency release method.  (And yes, I walked to school.  In the snow.  Uphill.  Both ways.) Most new players meet her _very_ quickly.  
 
-Most new players meet her _very_ quickly.  
+Enter the main hall, with your arms bound. Wait around, and she will show up.  (There's also a button on the screen that you can use, to summon her. But I advise against using that.)  
 
-Enter the main hall, with your arms bound.  Wait around, and she will show up.  (There's also a button on the screen that you can use, to summon her.  But I advise against using that.)  
-
-She will remove _almost_ all restraints.  She does not remove collars, or chastity devices.  
+She will remove _almost_ all restraints. She does not remove collars, or chastity devices.  
 
 * Exception.  If you have a chastity that's locked with a combination or password lock, she will remove the lock but leave the chastity.  And with the lock removed, you can remove the chastity if you want.  Any other lock, she will leave locked.  "Chastity locked with a combination lock" used to be the biggest abuse in the game, so the developers changed some of the rules for them.  
 
@@ -43,9 +39,7 @@ She will _offer_ to remove owner locks, for a fee.
 
 About a year ago, the game created the safeword system.  It's not some literal word or something that you have to "set up".  It's a button on your screen that you click, and it's already there.  
 
-Click on your avater, and there should be a button there to "Use your safeword".  
-
-Click that button, and it will give you two options. "Revert" is the first one.  
+Click on your avater, and there should be a button there to "Use your safeword". Click that button, and it will give you two options. "Revert" is the first one.  
 
 **Safeword "revert" will restore your character, clothes and all, to the way she was, the last time she left the main hall**.  It's intended as an "undo all changes" option for your character.  
 
@@ -61,7 +55,7 @@ But in rare cases, this can cause it to do things you didn't expect.
 
 Well, the last time you went through the main hall, you were all tied up.  
 
-Safeword "revert" can **apply** restraints.  In rare cases.  Most of the time, it's a great option.  But if some day you think it's broke, that's what happened.  
+Safeword "revert" can **apply** restraints.  In rare cases.  Most of the time, it's a great option.  But if some day you think it's broken, that's what happened.  
 
 "Revert" will also change your character's permission setting to "Owner, lover, whitelist".  For your protection.  
 
@@ -81,7 +75,7 @@ I think of it as pulling the handle on the ejector seat.
 
 ## An emergency to think about 
 
-Now that I've hit you with all these ways you can get loose, I want to give you an imaginary scenario, for you to think about, before it happens.  
+Now that I've told you with all these ways you can get released, I want to give you an imaginary scenario, for you to think about, before it happens.  
 
 I'm going to use the pronouns "me" and "you", because it's simpler than always saying "the attacker" and "the target".  
 
