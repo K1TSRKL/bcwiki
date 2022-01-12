@@ -2,11 +2,11 @@
 
 Next I'm going to talk about what the game calls "Item permissions", but I call "Character permissions".  (Because they operate at the character level, and there's another set of permissions that actually do operate at the item level.  I might add a description of that system in an add-on chapter.)  
 
-* Note:  This page will make a lot of references to people being on your blacklist, or whitelist.  Information on those lists, and the other lists you can put people on, are listed under [Ch 3.1: The "manage my relationship" lists](./Aylea's-Intro-The-%22manage-my-relationship%22-lists).  
+* Note: this page will make a lot of references to people being on your blacklist, or whitelist.  Information on those lists, and the other lists you can put people on, are listed under [Ch 3.1: The "manage my relationship" lists](./Aylea's-Intro-The-%22manage-my-relationship%22-lists).  
 
-* Also:  I recommend everybody read my "[Note on permission settings, and consent](#note-on-permission-setting-and-consent)", at the end of this page.  
+* Also, I recommend everybody read my "[Note on permission settings, and consent](#note-on-permission-setting-and-consent)", at the end of this page.  
 
-## The instruction guide.  
+## The instruction guide
 
 ### What character permission settings DO:  
 
@@ -26,13 +26,13 @@ There are six possible permission settings:
 5. Owner, lover
 6. Owner only
 
-. . . but I'd estimate that probably 98% of the club uses just #2 or 4.  
+…but I'd estimate that probably 98% of the club uses just #2 or 4.  
 
 You're not committed to any particular setting.  You can change any time.  But odds are, after you've used one setting, then changing to a different one will be an inconvenience.  
 
 One way of looking at it is, it's "people you trust", and "people you don't".  
 
-### How to set your permission setting.  
+### How to set your permission setting
 
 The setting is behind a series of screens.  
 
@@ -50,11 +50,11 @@ Assuming that you're standing in a chatroom:
 There are two permission settings that I recommend against people using.  Here's my reasons why:  
 
 * "Owner, lover, whitelist, dominants".  (Yes, this is the default setting for new players.)  I advise people against this setting, because it grants or denies access to you, based on somebody's "dominant/submissive" reputation.  And I can tell you with absolute certainty that there is nothing about a "dominant" reputation that makes somebody more worthy of your trust.  (It might even be the opposite.)  
-* "Everybody, no exceptions".  I recommend against this setting, and recommend people stick with "Everybody but blacklist" instead.  
+* "Everybody, no exceptions".  I recommend against this setting, and advise people to stick with "Everybody but blacklist" instead.  
 As long as you don't _want_ to blacklist anybody, the two settings are identical.  
 But, if you're ever in a situation where you think that blacklist is the right choice, then you don't want to have to be figuring out how to change your permission setting, _before_ blacklisting will have any effect.  
 
-## What the settings mean, to a player.  
+## What the settings mean, to a player
 
 ### Everyone but blacklist
 
@@ -88,7 +88,7 @@ With "owner, lover, whitelist", you can wander around the club, and nobody can t
 
 But.  You meet somebody.  You talk.  You decide to play with them?  Add them to your whitelist, and now that one person can do things to you.  
 
-**So the difference between "Everybody but blacklist" and "Owner, lover, whitelist", is whether _strangers_ can do things to you. ** 
+**So the difference between "Everybody but blacklist" and "Owner, lover, whitelist", is whether _strangers_ can do things to you.**
 
 As a practical matter, I see a lot of dominants use "Owner, lover, whitelist".  Because they assume that they're not going to be giving that many people permission to tie them up.  Whereas lots of subs use "Everybody but blacklist", because they expect to be granting consent to lots of people, and it's a pain having to add every person you meet to your whitelist.  But that's a _very_ general impression, and I know _lots_ of people who don't follow that pattern.  
 
