@@ -7,9 +7,9 @@ The items, starting with the one I recommend you get first, are:
 1. Wireless toy remote
 2. Metal padlock key
 3. Handcuff key
-4. Lock picks
+4. Lockpicks
 
-### About what you need to own, and what you don't.  
+### About what you need to own, and what you don't
 
 To start with, imagine that you, brand new player, were to meet me, experienced player, in a chat room.  You would notice that, if you clicked on me, the game would give you a huge list of things that you could use on me.  
 
@@ -23,7 +23,7 @@ The exception to this rule is locks, keys, and the toy remote.  _Those_ items, y
 
 Buy duct tape once, and you can mummify everybody in the club, and never run out.  
 
-### About items you don't own.  
+### About items you don't own
 
 There is (almost) no way in the game for one player to transfer ownership of something to another player.  
 
@@ -71,9 +71,9 @@ Also, don't run out and buy every key in the store.  Some of the keys are useles
 
 The handcuff key has the same description as the metal padlock key. Key sold separately, one key fits all.  The "metal cuffs:, and the handcuff key, are sold with the items for the arms.  
 
-## Lock picks
+## Lockpicks
 
-The game recently added some locks, where almost everybody, to open them, has to pick the lock.  
+The game recently added some locks, where everybody has to pick the lock to open them (there are some exceptions to that).
 
 I'm really not a fan of the game's lockpick locks.  If they'd asked my opinion, I would have argued against them.  
 
