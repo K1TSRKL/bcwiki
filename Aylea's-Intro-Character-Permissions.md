@@ -2,9 +2,9 @@
 
 Next I'm going to talk about what the game calls "Item permissions", but I call "Character permissions".  (Because they operate at the character level, and there's another set of permissions that actually do operate at the item level.  I might add a description of that system in an add-on chapter.)  
 
-* Note:  This page will make a lot of references to people being on your blacklist, or whitelist.  Information on those lists, and the other lists you can put people on, are listed under [Ch 3.1: The "manage my relationship" lists](./Ch-3.1:--The-%22manage-my-relationship%22-lists).  
+* Note:  This page will make a lot of references to people being on your blacklist, or whitelist.  Information on those lists, and the other lists you can put people on, are listed under [Ch 3.1: The "manage my relationship" lists](./Aylea's-Intro-The-%22manage-my-relationship%22-lists).  
 
-* Also:  I recommend everybody read my "[Note on permission settings, and consent](./_new#note-on-permission-setting-and-consent)", at the end of this page.  
+* Also:  I recommend everybody read my "[Note on permission settings, and consent](#note-on-permission-setting-and-consent)", at the end of this page.  
 
 ## The instruction guide.  
 
