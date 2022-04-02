@@ -12,7 +12,7 @@ Welcome to the Bondage Club wiki! The wiki is primarily intended as a resource f
 ### Adding new things to BC
 
 * [[Asset Creation|Asset-Creation]]
-* [[Creating a new dialog|NewDialog]]
+* [[Creating a new dialog|Dialogs]]
 * [[Creating a new screen|NewScreen]]
 
 ### Advanced Features
