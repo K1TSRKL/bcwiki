@@ -19,7 +19,7 @@
 
 There are two main components to the application: the UI and the server. The UI is written using HTML and JavaScript. The server is written in JavaScript using NodeJS, and is backed by a MongoDB database.
 
-For most development purposes, it is sufficient to only set up the UI and have it point at the live game server. For more complex changes, or for more control over the dev environment, it may be useful to also have a local copy of the server running. This page walks through how to set up both the UI and the server.
+For most development purposes (for example if you're just testing a new asset), it is sufficient to only set up the UI and have it point at the game's development server (which will happen automatically when you run the game locally). For more complex changes, or for more control over the dev environment, it may be useful to also have a local copy of the server running. This page walks through how to set up both the UI and the server.
 
 This guide (currently) assumes you have already cloned the relevant repositories - git guidance may be added later. The main game repositories are here:
 
@@ -235,15 +235,10 @@ Once that has been done, that section of the file should look something like thi
 ```js
 // When the code is loaded, we start the game engine
 window.onload = function() {
+	// ServerURL = CommonGetServer();
 	//CheatImport();
-	// ServerURL = "https://bondage-club-server.herokuapp.com/";
-	CommonIsMobile = CommonDetectMobile();
-	TranslationLoad();
-	DrawLoad();
-	AssetLoadAll();
-	CommonSetScreen("Character", "Login");
-	ServerInit();
-	MainRun(0);
+	GameVersion = "R79";
+	// etc.
 };
 ```
 
