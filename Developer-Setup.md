@@ -34,6 +34,8 @@ This guide (currently) assumes you have already cloned the relevant repositories
 
 To run the UI standalone, pointed at the live server, all that's needed is a simple HTTP server to serve up `BondageClub/index.html`. There are several options here, and this page will cover a handful. Below are two easy options, and further down are a couple of more advanced options (which might be useful for those already fairly familiar with PHP or Python).
 
+> ⚠️ The game's dev server uses its own database for character accounts, so you won't be able to log in with your usual Bondage Club credentials if you're only running the UI. The first time you connect using one of the methods below, you'll want to create a new account on the dev server, which you'll then be able to use each time you run the game locally.
+
 ### Running a dev server through your IDE
 
 Depending on your choice of code editor, many modern IDEs come with a built-in development server. Below we cover two options: Visual Studio Code and JetBrains IDEs (e.g. WebStorm). If you use a different IDE, check your IDE's documentation to see if this option is available to you, and to learn how to do it.
