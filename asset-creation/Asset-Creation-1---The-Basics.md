@@ -14,16 +14,15 @@ Every character in the game is made up of several asset groups (or slots as a lo
 
 Assets are the individual items that characters can wear or equip. Each item of clothing, or piece of bondage equipment, or character body part, is an asset. Every asset is assigned to a single asset group. It's quite easy to see how assets map to groups through the game. In the wardrobe, for example, each row corresponds to a group:
 
-[TODO: Image of wardrobe screen]
+![Wardrobe Groups](asset-creation/wardrobe-groups.png)
 
-And each piece of clothing you can select when clicking into the group represents a single asset within that group:
+Similarly, when interacting with a character, item groups are represented by the interactive grid overlay that is shown on top of a character:
 
-[TODO: Image of clothing selection screen]
+![Item groups](asset-creation/item-groups.png)
 
-Similarly, when interacting with a character, groups are represented by the interactive grid overlay that is shown on top of a character:
+And each item or piece of clothing (if you have character previews on in the wardrobe) you can select when clicking into the group represents a single asset within that group:
 
-[TODO: Image of character grid overlay]
-
+![Assets in the inventory](asset-creation/inventory-assets.png)
 
 
 ### Layers
