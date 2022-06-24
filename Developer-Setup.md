@@ -19,7 +19,7 @@
 
 There are two main components to the application: the UI and the server. The UI is written using HTML and JavaScript. The server is written in JavaScript using NodeJS, and is backed by a MongoDB database.
 
-For most development purposes, it is sufficient to only set up the UI and have it point at the live game server. For more complex changes, or for more control over the dev environment, it may be useful to also have a local copy of the server running. This page walks through how to set up both the UI and the server.
+For most development purposes (for example if you're just testing a new asset), it is sufficient to only set up the UI and have it point at the game's development server (which will happen automatically when you run the game locally). For more complex changes, or for more control over the dev environment, it may be useful to also have a local copy of the server running. This page walks through how to set up both the UI and the server.
 
 This guide (currently) assumes you have already cloned the relevant repositories - git guidance may be added later. The main game repositories are here:
 
@@ -33,6 +33,8 @@ This guide (currently) assumes you have already cloned the relevant repositories
 [Top of page](#developer-setup)
 
 To run the UI standalone, pointed at the live server, all that's needed is a simple HTTP server to serve up `BondageClub/index.html`. There are several options here, and this page will cover a handful. Below are two easy options, and further down are a couple of more advanced options (which might be useful for those already fairly familiar with PHP or Python).
+
+> ⚠️ The game's dev server uses its own database for character accounts, so you won't be able to log in with your usual Bondage Club credentials if you're only running the UI. The first time you connect using one of the methods below, you'll want to create a new account on the dev server, which you'll then be able to use each time you run the game locally.
 
 ### Running a dev server through your IDE
 
@@ -235,15 +237,10 @@ Once that has been done, that section of the file should look something like thi
 ```js
 // When the code is loaded, we start the game engine
 window.onload = function() {
+	// ServerURL = CommonGetServer();
 	//CheatImport();
-	// ServerURL = "https://bondage-club-server.herokuapp.com/";
-	CommonIsMobile = CommonDetectMobile();
-	TranslationLoad();
-	DrawLoad();
-	AssetLoadAll();
-	CommonSetScreen("Character", "Login");
-	ServerInit();
-	MainRun(0);
+	GameVersion = "R79";
+	// etc.
 };
 ```
 
