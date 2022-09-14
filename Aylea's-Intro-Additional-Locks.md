@@ -47,11 +47,15 @@ She can try to "struggle out". (Although the lock will make struggling out a lot
 
 The lock makes the restraint permanent. (In most cases.)
 
-Newby does, however, have a button to access the "lock menu". Clicking it will show her this screen:
+Newby does, however, have a button to access the "lock menu". It's this one. 
 
-![Newby's lock menu](https://i.imgur.com/LJAsr8x.png)
+![Newby's lock menu button](https://i.imgur.com/LJAsr8x.png)
 
-She has the ability to "inspect the lock". If she does so, it will tell her that it's a metal padlock, and that it was applied by me.
+If she clicks that button, it will give her a "lock menu" with only one option on it, to "inspect the lock". 
+
+![Newby's lock menu](https://i.imgur.com/Y78cLvu.png)
+
+If she does so, it will tell her that it's a metal padlock, and that it was applied by me.
 
 But I put the same collar and lock on Redshirt.  Redshirt owns the metal padlock key. (Redshirt read Aylea's Intro. And Chapter 5 told her to buy the key.)
 
