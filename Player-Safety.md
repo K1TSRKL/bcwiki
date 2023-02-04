@@ -54,6 +54,7 @@ If you've been around the multiplayer portion of the game for a little while, yo
 
 > A lot. Scripts run inside your browser, and with some exceptions, can do just about anything you can do yourself. They can:
 > * Redirect your browser to malicious websites
+> * Save bad data to your account, which can break your account completely in the worst case
 > * Read your account data (including your account name, and password under certain circumstances)
 > * Send your account data to other sites, or the script creator
 >
