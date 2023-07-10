@@ -16,8 +16,8 @@
   * [Ch. 5 - Things to Buy](./Aylea's-Intro-Things-to-Buy)
   * [Ch. 6 - Owner and Lover Relationship](./Aylea's-Intro-Owner-and-Lover-Relationships)
   * [Additional material](./Aylea's-Intro-Additional)
-    * [Ch. A1 - Locks](./Aylea's-Intro-Additional-Locks)
-    * [Ch A2 - Add-ons.  BCX](https://gitgud.io/zorgjeanbe/Bondage-College/-/wikis/Aylea's-Guide.Additional.AddOns.BCX)
+    * [Ch. A1  - Locks](./Aylea's-Intro-Additional-Locks)
+    * [Ch. A2 - Addons. BCX](https://gitgud.io/zorgjeanbe/Bondage-College/-/wikis/Aylea's-Guide.Additional.AddOns.BCX)
 
 ---
 
