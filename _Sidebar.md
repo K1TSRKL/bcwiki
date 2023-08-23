@@ -1,7 +1,7 @@
 #### Important Links
 
-* [:house: Wiki Home](.)
-* [:shield:️ Player Safety](./Player-Safety)
+* [🏠 Wiki Home](home)
+* [🛡️ Player Safety](Player-Safety)
 
 ---
 
@@ -23,16 +23,16 @@
 
 #### Developer Guides
 
-* [Developer Setup](./Developer-Setup)
+* [Developer Setup](Developer-Setup)
 * Adding new...
-  * [Assets](./Asset-Creation)
-  * [Dialogs](./NewDialog)
-  * [Screens](./NewScreen)
-* [Guide to Dynamic Assets](./DynamicAssets)
-* [Guide to Drawing Hooks](./Guide-to-Drawing-Hooks)
+  * [Assets](Asset-Creation)
+  * [Dialogs](Dialogs)
+  * [Screens](NewScreen)
+* [Guide to Dynamic Assets](DynamicAssets)
+* [Guide to Drawing Hooks](Guide-to-Drawing-Hooks)
 
 ---
 
 #### Other Stuff
 
-* [JavaScript Documentation](./JSDoc)
+* [JavaScript Documentation](JSDoc)

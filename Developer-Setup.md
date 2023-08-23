@@ -23,10 +23,10 @@ For most development purposes (for example if you're just testing a new asset), 
 
 This guide (currently) assumes you have already cloned the relevant repositories - git guidance may be added later. The main game repositories are here:
 
-* UI: [https://github.com/Ben987/Bondage-College](https://github.com/Ben987/Bondage-College)
+* UI: [https://gitgud.io/BondageProjects/Bondage-College](https://gitgud.io/BondageProjects/Bondage-College)
 * Server: [https://github.com/Ben987/Bondage-Club-Server](https://github.com/Ben987/Bondage-Club-Server)
 
-> ℹ️ If you notice any issues with this guide, or would like to suggest improvements, you can raise an issue here in Github, or get in touch with Ellie#7890 in the [Club Discord](https://discord.gg/dkWsEjf).
+> ℹ️ If you notice any issues with this guide, or would like to suggest improvements, you can raise an issue here in GitGud, or get in touch with Ellie#7890 in the [Club Discord](https://discord.gg/dkWsEjf).
 
 ## UI Setup
 
