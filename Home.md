@@ -15,13 +15,13 @@ Welcome to the Bondage Club wiki! The wiki is primarily intended as a resource f
 
 ### Adding new things to BC
 
-* [[Asset Creation|Asset-Creation]]
+* [[Asset Creation|asset-creation/Asset-Creation--0-Index]]
 * [[Creating a new dialog|Dialogs]]
 * [[Creating a new screen|NewScreen]]
 
 ### Advanced Features
 
-* [[Guide to Dynamic Assets|DynamicAssets]]
+* [[Guide to Dynamic Assets|asset-creation/DynamicAssets]]
 * [[Guide to Drawing Hooks|Guide-to-Drawing-Hooks]]
 
 ## API Documentation

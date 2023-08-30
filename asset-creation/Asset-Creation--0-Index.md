@@ -10,5 +10,7 @@ One of the most common things that people contribute to Bondage Club is new asse
 
 If you're new to assets or contributing to Bondage Club in general, it's recommended that you follow these guides in order. They are also (hopefully) organised in such a way that you can use this list to quickly reference specific topics later.
 
-* [[Part 1 - The Basics|Asset-Creation-1---The-Basics]]
-* [[Part 2 - Getting Started|Asset-Creation-2---Getting-Started]]
+* [[Part 1 - The Basics|asset-creation/Asset-Creation--1-The-Basics]]
+* [[Part 2 - Getting Started|asset-creation/Asset-Creation--2-Getting-Started]]
+
+* [Guide to Dynamic Assets](asset-creation/DynamicAssets)

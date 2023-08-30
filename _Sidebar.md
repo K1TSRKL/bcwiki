@@ -25,10 +25,9 @@
 
 * [Developer Setup](Developer-Setup)
 * Adding new...
-  * [Assets](Asset-Creation)
+  * [Assets](asset-creation/Asset-Creation--0-Index)
   * [Dialogs](Dialogs)
   * [Screens](NewScreen)
-* [Guide to Dynamic Assets](DynamicAssets)
 * [Guide to Drawing Hooks](Guide-to-Drawing-Hooks)
 
 ---
