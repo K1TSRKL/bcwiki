@@ -32,6 +32,8 @@ Later, I might insert some of the topics that I've removed from the normal class
 
 * [Ownership and Lover Relationships.](./Aylea's-Intro-Owner-and-Lover-Relationships):  The rules for Owner and Lover relationships.  (And advice on them.)  
 
+* [Creating a Chat Room](./Creating-a-room): How to create a chat room for players
+
 
 
 
