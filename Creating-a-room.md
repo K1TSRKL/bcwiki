@@ -3,9 +3,13 @@
 Chatrooms are where the majority of the fun of Bondage Club happens. Creating a new room is a fairly straightforward process:
 
 Left column of options
-*Room Name: The name of the room as it is listed on the chatroom lineup. Please note that no special characters are permitted in this input.
-*Language: The primary language in this room.
-*Size: The number of players permitted in the room
+
+Room Name: The name of the room as it is listed on the chatroom lineup. Please note that no special characters are permitted in this input.
+
+Language: The primary language in this room.
+
+Size: The number of players permitted in the room
+
 *Description: A short description of the room. This is listed underneath the room name, and can give a brief description of what you're looking for.
 *Administrator List: The player IDs permitted to use Administrative Actions in this room. By default it is assigned to the creator of the room, but you can click the Add Owner and Add Lovers buttons respectively to quickly add your owners and lovers, or you can add entries manually by player ID, separated by commas.
 *Ban List: Player IDs that are banned from this room. Banned users cannot see your room. Similar to the *Administrator List, this list can be comma separated. Under your personal settings, in the Online section, you can opt to have any players on your Ghostlist or Blacklist automatically banned when you create a room.
