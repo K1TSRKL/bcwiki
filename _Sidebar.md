@@ -15,6 +15,7 @@
   * [Ch. 4 - Emergency Release Methods](./Aylea's-Intro-Emergency-Release-Methods)
   * [Ch. 5 - Things to Buy](./Aylea's-Intro-Things-to-Buy)
   * [Ch. 6 - Owner and Lover Relationship](./Aylea's-Intro-Owner-and-Lover-Relationships)
+  * [Ch. 7 - Creating a Room](./Creating-a-room)
   * [Additional material](./Aylea's-Intro-Additional)
     * [Ch. A1  - Locks](./Aylea's-Intro-Additional-Locks)
     * [Ch. A2 - Addons. BCX](https://gitgud.io/zorgjeanbe/Bondage-College/-/wikis/Aylea's-Guide.Additional.AddOns.BCX)
