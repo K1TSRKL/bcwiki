@@ -2,7 +2,7 @@
 
 First, Welcome to the Bondage Club.  
 
-This represents an attempt to create a stand-alone version of the new player training classes that I've been teaching in the club for over a year.  Hopefully, it will evolve over time.  But to start with, my intention is to really follow the plan that I've been using in class.  
+This represents an attempt to create a stand-alone version of the new player training classes that I've been teaching in the club for four years.  Hopefully, it will evolve over time.  But to start with, my intention is to really follow the plan that I've been using in class.  
 
 That means, at least for now, this document will be aimed at brand new players in the club.  And I will assume that they are using the new player default settings.  
 
