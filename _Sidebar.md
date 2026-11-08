@@ -1,5 +1,5 @@
 * 用户与新手指南
-  * [首页](Home.md)
+  * [首页](Home_zh.md)
   * [Aylea 新手指南](Aylea's-Intro-to-Bondage-Club.md)
   * [四种说话方式](Aylea's-Intro-The-Four-Ways-of-Talking.md)
   * [游戏动作](Aylea's-Intro-Game-Actions.md)
