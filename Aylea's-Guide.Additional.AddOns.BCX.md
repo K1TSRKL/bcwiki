@@ -1,54 +1,56 @@
-I suspect that BCX is the most popular add-on to Bondage club.
+# BCX 插件指南
 
-I do not intend to write a full guide to using it. For lots of reasons. One of which is because the creators of BCX have actually created an extensive help system on their own.
+我怀疑 BCX 是束缚俱乐部（Bondage Club）中最受欢迎的扩展插件。
 
-It is **not** necessary to have it, to use the game. But, a _lot_ of people really like the things that it adds. (Including myself.) I didn't use it for my first two years in the club, and had many great times without it.
+我不打算写一份关于如何使用它的完整指南。原因有很多，其中之一是 BCX 的创建者们实际上已经自己创建了一个庞大的帮助系统。
 
-But. Lots of people in the club use BCX. And lots of people recommend BCX to new players. (Most of them, with good intentions.) And BCX _can_ be dangerous, as well. So I can't just pretend that it doesn't exist, either.
+使用游戏**并不**一定需要它。但是，_很多人_真的很喜欢它所添加的功能。（包括我自己。）我在俱乐部的头两年没有使用它，也度过了许多美好的时光。
 
-## What is BCX?
+但是。俱乐部里有很多人在使用 BCX。而且很多人向新玩家推荐 BCX。（大多数人都是出于好意。）并且 BCX 也确实_可能_存在风险。所以我不能假装它不存在。
 
-BCX is an add-on to the game. Using it adds things to the club that don't exist in the basic game. (And in some cases, enhances things that are already in the game.)
+## 什么是 BCX？
 
-There are two ways you can install it.
+BCX 是游戏的一个扩展插件。使用它会为俱乐部添加一些基础游戏中不存在的东西。（在某些情况下，它会增强游戏中已有的功能。）
 
-* You can use a third party plugin for your web browser, called TamperMonkey. Tamper monkey is a bit more complicated to install, but once you install it, then every time you log into the club, TamperMongey will insert BCX into your game, too.
-* Or you can add a bookmark to your web browser. That method is simpler to install, but it means that every time you load the Bondage Club login page, you will have to click the bookmark to install BCX over the game.
+安装它有两种方法：
 
-Once installed, it adds another layer to your game.
+* 你可以使用网页浏览器的第三方插件，叫做 TamperMonkey（暴力猴）。TamperMonkey 的安装稍微复杂一点，但一旦安装好，以后每次你登录俱乐部时，TamperMonkey 也会将 BCX 插入到你的游戏中。
+* 或者你可以在网页浏览器中添加一个书签。这种方法安装更简单，但这意味着每次你加载束缚俱乐部登录页面时，都必须点击该书签以在游戏之上安装 BCX。
 
-People can be granted authority within BCX. (Either by you, or by other people who have been granted authority). You (or other people) can grant authority only within BCX. Or granting people roles within the basic Bondage Club game (such as adding someone to your friend list, or making them your owner or lover) will grant them authority within BCX as well.
+安装后，它会为你的游戏添加另一层功能。
 
-Once a person has authority within BCX, that person can then impose things on your character.
+人们可以在 BCX 内部被授予权限。（可以由你授予，也可以由其他被授予权限的人授予。）你（或其他人）可以在 BCX 内部单独授予权限，或者在基础束缚俱乐部游戏中授予角色身份（例如将某人添加为好友，或将其设为你的所有者或恋人）也会同时授予他们在 BCX 中的权限。
 
-* One of the ones you will probably see first, is that they can "curse" certain restraint or clothing slots on you. Curses usually will prevent people from changing that slot. (It will block them from, say, adding or removing a restraint, or changing an item of clothing.)
-* They can impose "rules" on you. For example, in the club, my owner has imposed a BCX rule on me that I cannot use the wireless toy remote on myself.
-* They can impose "commands" on you. Most of the commands simply do the same things as options that you can configure in your profile settings, yourself. The difference is that it's somebody with BCX authority "clicking that box" instead of you.
+一旦某人在 BCX 中拥有了权限，这个人就可以对你的角色施加各种限制。
 
-The BCX curses, rules, and commands can have much finer control than the basic Bondage Club options. For example, they can be configured to only function in certain rooms. Or, only in the presence (or absence) of your owner.
+* 你可能最先看到的功能之一是，他们可以对你身上的某些束缚或服装槽位施加“诅咒（cursed）”。诅咒通常会阻止其他人更改该槽位。（它会阻止他们，比如添加或移除束缚，或者更换服装。）
+* 他们可以对你施加“规则（rules）”。例如，在俱乐部里，我的所有者在 BCX 中对我施加了一条规则，规定我自己不能使用无线跳蛋遥控器。
+* 他们可以施加“命令（commands）”。大多数命令只是执行与你在个人资料设置中自己配置的选项相同的操作。不同之处在于，是拥有 BCX 权限的人在“点击那个复选框”，而不是你。
 
-And they have much stronger enforcement. For example, in the basic game (with default settings), safeword "release" will remove all restraints from you. But, if some of your restraints have been "cursed", then BCX will immediately detect that the restraint has been removed, and immediately re-apply it.
+BCX 的诅咒、规则和命令可以比基础的束缚俱乐部选项进行更精细的控制。例如，它们可以配置为仅在某些房间中生效。或者，仅在你的所有者在场（或不在场）时生效。
 
-Note: This also means that BCX **can** be abused.
+并且它们具有更强的执行力。例如，在基础游戏中（使用默认设置），警示词“释放”会移除你身上的所有束缚。但是，如果你的某些束缚被“诅咒”了，那么 BCX 会立即检测到束缚已被移除，并立即重新施加它。
 
-## BCX Abuse
+注意：这也意味着 BCX **可能**会被滥用。
 
-Because BCX has it's own security system, where people can not only have authority, but can grant authority to others (or themselves), _including the authority to grant themselves more authority, and the authority to disable **your** authority_, BCX can be abused.
+## BCX 滥用
 
-And yes, there are people in the club who will take great delight, and have spent a lot of effort, figuring out ways to really mess people up using BCX.
+由于 BCX 有它自己的安全系统，人们不仅可以拥有权限，还可以将权限授予他人（或自己），_包括授予自己更多权限的权力，以及禁用**你的**权限的权力_，因此 BCX 可能会被滥用。
 
-They're rare. The vast majority of the people in Bondage Club are good, ethical people. But they do exist.
+是的，俱乐部里确实有一些人会从中获得极大的乐趣，并花费大量精力琢磨如何用 BCX 把人整得很惨。
 
-## BCX "Emergency release procedure"
+他们是少数。束缚俱乐部绝大多数人都是善良、有道德的。但他们确实存在。
 
-Go to your profile - Click the BCX button - Click the "Global" button.
+## BCX“紧急释放程序”
 
-On that screen you will see a red button labeled "Clear all BCX Data". (Don't click it right now.)
+前往你的个人资料 - 点击 BCX 按钮 - 点击“全局（Global）”按钮。
 
-If your BCX gets _really_ messed up, (either accidentally or by an abuser), clicking that button will reset BCX back to it's "new" condition.
+在该屏幕上你会看到一个红色的按钮，标记为“清除所有 BCX 数据（Clear all BCX Data）”。（现在先别点它。）
 
-* All curses, rules, and commands will be gone. And
-* Every person who has been granted authority _within BCX_ will be removed as authorized users.\
-  (However, some people will still have authority within BCX. For example, people who you have made friends, lovers, or owner, will still have that authority within BCX. Because BCX automatically grants people who have that status, power within BCX.
+如果你的 BCX 变得_非常_混乱（无论是意外还是遭到滥用者破坏），点击该按钮会将 BCX 重置为“全新”状态。
 
-But clearing that data will pretty much get you free of whatever some abuser did to you.  
+* 所有的诅咒、规则和命令都将消失。并且
+* 所有在 _BCX 内部_被授予权限的人都将被移除授权用户身份。
+（不过，有些人仍然会在 BCX 中保留权限。例如，你设为好友、恋人或所有者的人，在 BCX 中依然拥有该权限。因为 BCX 会自动将拥有这些身份的人赋予 BCX 中的权力。）
+
+但清除这些数据基本上可以让你摆脱任何滥用者对你做过的事情。

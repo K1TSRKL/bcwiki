@@ -18,18 +18,18 @@
 
 ## 主要主题
 
-* [“四种说话方式”](./Aylea's-Intro-The-Four-Ways-of-Talking)：或者说，如何使用输入框。这几种方法包括：正常说话、动作（或“表情”）、OOC（角色外）和私聊。
+* [“四种说话方式”](Aylea's-Intro-The-Four-Ways-of-Talking)：或者说，如何使用输入框。这几种方法包括：正常说话、动作（或“表情”）、OOC（角色外）和私聊。
 
-* [游戏动作](./Aylea's-Intro-Game-Actions)：诸如抚摸、亲吻、打屁股等动作，以及著名的“戳鼻子（boop）”。
+* [游戏动作](Aylea's-Intro-Game-Actions)：诸如抚摸、亲吻、打屁股等动作，以及著名的“戳鼻子（boop）”。
 
-* [角色权限](./Aylea's-Intro-Character-Permissions)：决定谁可以对你做什么。
+* [角色权限](Aylea's-Intro-Character-Permissions)：决定谁可以对你做什么。
 
-* [“管理我的关系”列表](./Aylea's-Intro-The-%22manage-my-relationship%22-lists)：我将所有的“列表”列在了一个单独的页面上。包括幽灵名单（ghost）、黑名单、白名单和好友名单。
+* [“管理我的关系”列表](Aylea's-Intro-The-%22manage-my-relationship%22-lists)：我将所有的“列表”列在了一个单独的页面上。包括幽灵名单（ghost）、黑名单、白名单和好友名单。
 
-* [紧急释放方法](./Aylea's-Intro-Emergency-Release-Methods)：如果需要的话，如何在紧急情况下解开束缚。
+* [紧急释放方法](Aylea's-Intro-Emergency-Release-Methods)：如果需要的话，如何在紧急情况下解开束缚。
 
-* [要购买的物品](./Aylea's-Intro-Things-to-Buy)：我建议所有新玩家购买的物品。包括对俱乐部如何处理你拥有或未拥有物品的讨论，以及关于“赚钱方法”的讨论。
+* [要购买的物品](Aylea's-Intro-Things-to-Buy)：我建议所有新玩家购买的物品。包括对俱乐部如何处理你拥有或未拥有物品的讨论，以及关于“赚钱方法”的讨论。
 
-* [所有者与恋人关系](./Aylea's-Intro-Owner-and-Lover-Relationships)：所有者和恋人关系的规则（以及相关的建议）。
+* [所有者与恋人关系](Aylea's-Intro-Owner-and-Lover-Relationships)：所有者和恋人关系的规则（以及相关的建议）。
 
-* [创建一个聊天室](./Creating-a-room)：如何为玩家创建一个聊天室
+* [创建一个聊天室](Creating-a-room)：如何为玩家创建一个聊天室

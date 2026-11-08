@@ -1,89 +1,91 @@
-What I call "the four ways of talking" isn't strictly about talking.  Rather, it's "the four kinds of things you can type in the chat room typing box".  
+# 四种说话方式
 
-## Normal talking
+我所说的“四种说话方式”并不是严格意义上的说话。更确切地说，它是“你可以在聊天室输入框中输入的四种内容”。
 
-Odds are, you already know how to talk in the chat rooms.  You type something in the text box, and press Enter.  Your character speaks, to everybody in the room.  
+## 正常说话
 
-You walk into a room, type "hello" into the typing box (without the quotation marks) and press Enter.  Every person in the room will get a message in their chat log that looks like "**Aylea**: Hello".  (The game will insert the name of the person who spoke, in front of what they said.)  
+大概你已经知道如何在聊天室里说话了。你在文本框中输入一些内容，然后按回车键。你的角色会向房间里的每个人说话。
 
-So, "talking" is pretty straightforward.  
+你走进一个房间，在输入框中输入“hello”（不带引号）并按回车。房间里的每个人都会在他们的聊天日志中收到一条类似这样的消息：“**Aylea**: Hello”。（游戏会自动在他们所说内容的前面插入说话者的名字。）
 
-## Actions
+所以，“说话”非常直观。
 
-But, if you put an "*" (without the quotes) in front of your typing, it will do something different.  
+## 动作
 
-After saying hello to everybody, you type something like "* smiles" (without the quotes).  And press Enter.  
+但是，如果你在输入内容的前面加上一个“*”（不带引号），就会发生一些不同的事情。
 
-And everybody in the room will get a message like:  
+在向大家打过招呼之后，你输入类似“* smiles”（不带引号）的内容。然后按回车。
+
+房间里的每个人都会收到一条这样的消息：
 
 _* Aylea smiles*_
 
-(The game will put your name in front, and provide an * at the end.)  
+（游戏会把你的名字放在前面，并在末尾加上一个 *。）
 
-This is for actions.  Lots of people call them "emotes".  
+这是用于动作的。很多人称它们为“表情（emotes）”。
 
-It's used to describe things that you **do**, rather than things that you **say**.  
+它用来描述你**做**的事情，而不是你**说**的话。
 
-* If you start your typing with "\*\*", the game will leave your name off.  It can be used, for example, to describe things that happen, but your character didn't do them.  Maybe "\*\* The room seems to feel a chilly draft for a moment"
+* 如果你以“\*\*”开始输入，游戏将不会显示你的名字。例如，它可以用来描述发生的事情，但不是你的角色做的。也许是“\*\* 房间里似乎有一阵凉爽的穿堂风吹过”
 
-## Out Of Character
+## 角色外（OOC）
 
-If you put a "(" in front of your typing, it won't look any different.  But it has a special meaning.  To you, the other people in the room, and to the game.  If I type a message like "( I have to leave for work in 10 minutes", then the game will simply display a message like:  
+如果你在输入内容的前面加上一个“(”，它看起来没有什么不同。但它有特殊的含义。对你、房间里的其他人以及游戏来说都是如此。如果我输入一条消息，比如“( I have to leave for work in 10 minutes”，那么游戏就会简单地显示一条消息，如：
 
 **Aylea:**  ( I have to leave for work in 10 minutes
 
-The "(" in front of that message signals everybody (including the game) that the message is "Out Of Character".  (Or "OOC").  It means it didn't come from Aylea, it came from the person at Aylea's keyboard.  
+该消息前面的“(”向所有人（包括游戏）发出了信号，表明该消息是“角色外（Out Of Character）”的。（或简称为“OOC”）。这意味着它不是来自 Aylea，而是来自 Aylea 键盘后面的人。
 
-Everybody in the room will pretend that they didn't see that message.  (Or maybe they'll respond out of character as well.  Maybe with "( OK.  See you tomorrow").  
+房间里的每个人都会假装他们没有看到那条消息。（或者也许他们也会在角色外进行回应。比如用“( OK. See you tomorrow”）。
 
-But, the person who was tying me up and teasing me?  Now she knows that she needs to be wrapping things up.  The scene can come to an orderly shutdown.  
+但是，那个把我绑起来并捉弄我的人呢？现在她知道她需要把事情收尾了。场景可以有序地结束。
 
-It's used for things like " (Bathroom break.  Back in 5."  
+它用于诸如“ (Bathroom break. Back in 5.”之类的事情。
 
-## Whispers  
+## 私聊（Whispers）
 
-Whispers are the most complicated type of "talking" to perform.  
+私聊是所有“说话”类型中最复杂的一种。
 
-Say that you and I are in a room, along with several other people.  And you want to whisper to Saavik.  
+假设你和我共处一个房间，还有其他几个人。而你想对 Saavik 进行私聊。
 
-On the part of the screen where our avatars are, click on my name down at the bottom.  Where my feet are, if I'm standing.  
+在我们头像所在的屏幕部分，点击底部我的名字。如果我站着的话，就是在我脚印的地方。
 
 ![Where to click](https://imgur.com/hoFhZUO.png)
 
-A small icon will appear next to Saavik's name.  And the grey text in the typing box will change from "Talk to everyone" to "Whisper to Saavik".  
+Saavik 的名字旁边会出现一个图标。输入框中的灰色文字将从“Talk to everyone”变为“Whisper to Saavik”。
 
 ![Ready to whisper](https://imgur.com/WnsJLqX.png)
 
-Then type something, say "test of whisper", in the typing box, and press Enter.  
+然后在输入框中输入一些内容，比如“test of whisper”，并按回车。
 
-* Your chat log window will show "_Whisper to Saavik:  test of whisper_".
+* 你的聊天日志窗口将显示“_Whisper to Saavik:  test of whisper_”。
 
-* And Saavik will receive a message like "_**YourName:** Test of whisper_".  
+* 并且 Saavik 将收到一条类似于“_**YourName:** Test of whisper_”的消息。
 
 ![Whisper sent, and received](https://imgur.com/7xKgkKB.png)
 
-To exit whisper, either click my name again, or click your own name.  
+要退出私聊，可以再次点击我的名字，或者点击你自己的名字。
 
 ![Whispering done](https://imgur.com/ENxKh69.png)
 
-Whispers only go to one person in the room.  Other people in the room don't see them.  
+私聊只发送给房间里的某一个人。房间里的其他人看不到。
 
-They _can_ be used for "in character" things.  For example, I've used whisper to tell people the combination for a lock.  
+它们_可以_用于“角色内”的事情。例如，我曾用私聊来告诉别人锁的组合密码。
 
-But they are almost always used for "out of character" messages.  In fact, a lot of people consider whisper to be the right way to do OOC messages.  
+但它们几乎总是用于“角色外”的消息。事实上，很多人认为私聊是进行 OOC 消息的正确方式。
 
-For example, you will see people with things in their profile like "If I ask to get untied, ignore me unless I whisper it".  Or "If I'm doing something to you that you don't like, whisper to me and I'll stop."  
+例如，你会看到人们在个人资料里写着诸如“如果我要求解绑，除非我私聊你，否则请忽略我”之类的话。或者“如果我正在对你做你不喜欢的事，私聊我，我会停下来。”
 
-## The effects of gags
+## 口枷的影响
 
-In the game, gags will interfere with normal talking, by altering what you type.  
+在游戏中，口枷会通过改变你输入的内容来干扰正常说话。
 
-_How much_ it alters your typing, may vary from gag to gag.  It may distort things a little, or at higher levels of "gag-ness", it might just convert everything you type into "mmmm mm mmm mmmm".  
+它改变你输入的_程度_可能因口枷而异。它可能会稍微扭曲一些东西，或者在较高的“口枷等级”下，它可能会把你输入的所有内容都变成“mmmm mm mmm mmmm”。
 
-But, _gags only interfere with normal talking_.  Actions, OOC, and whispers are not interfered with.  
+但是，_口枷只干扰正常说话_。动作、OOC 和私聊不受干扰。
 
-So, if I'm gagged, I can still describe an action like "* looks up with big, sad, eyes", and it will be displayed like any other action.  The gag just won't let me use "normal talking".  
+所以，如果我被塞住了嘴，我仍然可以描述一个动作，比如“* looks up with big, sad, eyes”，它会像任何其他动作一样显示出来。口枷只是不让我使用“正常说话”。
 
-Although putting a ( in front of an OOC message doesn't _look_ like it does anything differently?  Gags don't affect OOC messages.  
+尽管在 OOC 消息前面加一个 ( 看起来好像没有什么不同？口枷不会影响 OOC 消息。
 
-**This means that you _can_ use things like ( to "talk while gagged".  The game will let you.  But if you do, you will irritate a lot of people.  You're ruining the illusion of the game.**
+**这意味着你_可以_使用诸如 ( 之类的方法来“戴着口枷说话”。游戏会允许你这样做。但如果你这么做了，你会惹恼很多人。你在破坏游戏的沉浸感。**
