@@ -1,98 +1,36 @@
-# Emergency Release Methods
+# 紧急释放方法
 
-During your time in the club, there will be times when you will need to get released from various restraints.  There's lots of ways it can happen.  Some of the NPC club jobs "accidentally" leave you tied up at the end of the job. Or people, for one reason or another, may leave you tied up after some play.  
+在你在俱乐部的这段时间里，有时你需要从各种束缚中解脱出来。这种情况可能会以多种方式发生。NPC 俱乐部的一些工作在工作结束时会“意外”让你保持被绑状态。或者人们出于某种原因，在玩耍结束后让你保持被绑状态。
 
-There are numerous ways of dealing with this situation.  And it's your choice how you will.  But here, I'm going to show you the game's "safety net" systems, for times when you really want to get untied, right now.  
+处理这种情况的方法有很多。你可以自行选择如何处理。但在这里，我将向你展示游戏的“安全网”系统，以防你在某些时候真的非常急需解绑。
 
-I'll mention that the method most people use to get freed, is to simply walk into chat rooms, and either ask people to help you, or wait for them to offer.  It's not _guaranteed_ to get you untied — the other people are people after all, and not always predictable. But then, a lot of people like that little trill of things that _might_ happen.  And from what I've seen, the club is really full of people who will help you.  
+我要提一下，大多数人用来获得自由的方法很简单，就是走进聊天室，要么请求别人帮忙，要么等别人主动提供帮助。这并不_保证_能让你解脱—毕竟其他人也是人，并不总是可以预测的。不过话又说回来，很多人喜欢那种可能发生的事情带来的刺激。据我所观察，俱乐部里到处都是愿意提供帮助的人。
 
-And, if you have a **really** tough problem?  Something where you're stuck between a couple of rules that seem to leave you no way out, or something?  One thing that I've seen people do, is to create a room with a name like "I Need Help", and wait for someone who wants to be a White Knight to show up.  I can tell you, every time I see a room like that, I instantly respond and offer help.  And I have almost never seen such a room where there wasn't already two people there, who saw it before I did and are already helping.  
-If you _do_ set up such a room?  I'll request that when you're done, you shut down the room.  To avoid leaving a room with a name like that, sitting around without somebody inside who actually needs the help.  
+那么，如果你遇到了一个**非常**棘手的问题呢？比如你被夹在几个似乎让你无路可走的规则之间，或者类似的情况？我见过人们做的一件事是，创建一个名字叫“我需要帮助（I Need Help）”的房间，然后等待一个想当护花使者的人出现。我可以告诉你，每次我看到这样的房间，我都会立即响应并提供帮助。而且我几乎从未见过这样一个房间，里面没有在我之前看到它并已经在提供帮助的两个人。
+如果你_确实_创建了这样一个房间？我请求你在完成后关闭该房间。以避免留下一个这样名字的房间，里面却没有人真正需要帮助。
 
 ***
 
-The game creators have created three main systems for rescuing stuck players.  
+游戏创造者为拯救陷入困境的玩家创建了三个主要系统。
 
-1. The rescue maid
-2. Safeword "revert"
-3. Safeword "release"
+1. 救援女佣（The rescue maid）
+2. 警示词“还原”（Safeword "revert"）
+3. 警示词“释放”（Safeword "release"）
 
-If you only want to learn about one, I recommend safeword "release".  The other two have details about them which make them more complicated, and which can sometimes cause them to backfire.  But safeword "release" is simple, and reliable.  
+如果你只想了解其中一个，我推荐警示词“释放”。另外两个有更复杂的细节，有时可能会适得其反。但警示词“释放”简单且可靠。
 
-## The rescue maid
+## 救援女佣
 
-First, I need to mention.  The game has a lot of players in it who may have the _title_ of "maid".  And many players who may _dress_ as a maid.  But the actual rescue maid is an computer-operated character located in the game's main hall.  I'm going to be talking about her.  
+首先，我需要提一下。游戏里有很多玩家可能拥有“女佣”的_头衔_。而且许多玩家可能会_穿得像_女佣。但真正的救援女佣是位于游戏主大厅的由计算机控制的角色。我要谈论的就是她。
 
-When I joined the club, the rescue maid was the game's only emergency release method.  (And yes, I walked to school.  In the snow.  Uphill.  Both ways.) Most new players meet her _very_ quickly.  
+当我加入俱乐部时，救援女佣是游戏中唯一的紧急释放方法。（是的，我上学是走着去的。在雪地里。上坡。来回都是。）大多数新玩家很_快_就会见到她。
 
-Enter the main hall, with your arms bound. Wait around, and she will show up.  (There's also a button on the screen that you can use, to summon her. But I advise against using that.)  
+带着被绑的手进入主大厅。在周围转转，她就会出现。（屏幕上还有一个按钮，你可以用它来召唤她。但我建议不要使用。）
 
-She will remove _almost_ all restraints. She does not remove collars, or chastity devices.  
+她会移除_几乎所有_束缚。她不会移除项圈或贞操设备。
 
-* Exception.  If you have a chastity that's locked with a combination or password lock, she will remove the lock but leave the chastity.  And with the lock removed, you can remove the chastity if you want.  Any other lock, she will leave locked.  "Chastity locked with a combination lock" used to be the biggest abuse in the game, so the developers changed some of the rules for them.  
+* 例外。如果你有戴着组合锁或密码锁的贞操带，她会移除锁但保留贞操带。随着锁的移除，你可以移除贞操带。至于任何其他锁，她会保持锁上状态。“用组合锁锁住的贞操带”曾是游戏中最大的虐待方式，因此开发人员更改了其中一些规则。
 
-She will _offer_ to remove owner locks, for a fee.  
+她会_主动提出_有偿移除所有者锁。
 
-* There is also a system in the game, in rare conditions, when you're in a chat room that you can't leave, where you will have a button on your character which allows you to "Summon the maids to the room, to help you".  I advise against using it.  It will free you.  Kind of.  But then the maid will "punish you for bothering her" by applying different restraints to you.  If you need this option, I recommend that you use safeword "release" instead.  It will get you loose, without the "punishment".  
-
-## Safeword "revert"
-
-About a year ago, the game created the safeword system.  It's not some literal word or something that you have to "set up".  It's a button on your screen that you click, and it's already there.  
-
-Click on your avater, and there should be a button there to "Use your safeword". Click that button, and it will give you two options. "Revert" is the first one.  
-
-**Safeword "revert" will restore your character, clothes and all, to the way she was, the last time she left the main hall**.  It's intended as an "undo all changes" option for your character.  
-
-Say that you've got a collar and a corset that some friends gave you, a week ago.  And then somebody attacks you with a straitjacket.  Safeword "revert" will remove the straitjacket, but leave the collar and corset alone, because you were wearing them when you came in.  
-
-But in rare cases, this can cause it to do things you didn't expect.  
-
-* Say you get tied up.  With your permission.  Having a great time.  
-* You get disconnected. It happens to everybody.  
-* You sign back in.  Depending on your profile settings, you walk back to the same room, and pick up where you left off.  Having a great time.  
-* The scene ends.  Time passes.  
-* And then, something happens that you don't like.  You safeword.  
-
-Well, the last time you went through the main hall, you were all tied up.  
-
-Safeword "revert" can **apply** restraints.  In rare cases.  Most of the time, it's a great option.  But if some day you think it's broken, that's what happened.  
-
-"Revert" will also change your character's permission setting to "Owner, lover, whitelist".  For your protection.  
-
-Say somebody's attacking you, and that's why you used your safeword.  Well, it doesn't help you a lot to get untied, if they just attack you again.  So "revert" will change your setting, to try to give you some protection from an attacker.  (If your setting is already "Owner, lover, whitelist", or higher, then it will leave your setting unchanged.)
-
-So, if you use "revert"? Then later, after things calm down, you will likely want to change your permission settings back.  
-
-## Safeword "release"
-
-If you click your safeword button, the second option on the screen is "release".  It's an option that's very simple, and very reliable.  Just not subtle.  
-
-**Safeword "release" will leave your clothes and permissions alone.  It will remove all restraints.  (Even the ones you were wearing when you came in.)  And it will send you to the main hall, to get you away from any attacker.**  
-
-This means that safeword "release" will get you out of locked rooms that you can't leave, too.  
-
-I think of it as pulling the handle on the ejector seat.  
-
-## An emergency to think about 
-
-Now that I've told you with all these ways you can get released, I want to give you an imaginary scenario, for you to think about, before it happens.  
-
-I'm going to use the pronouns "me" and "you", because it's simpler than always saying "the attacker" and "the target".  
-
-Imagine that I'm attacking you.  I'm not talking about some kind of play scene.  I'm talking about something that is clearly non-consensual.  I've bound you.  Gagged you.  I'm beating you with a whip and slapping you.  
-
-What do you do **first**?  
-
-(Insert pause here)
-
-My suggestion is that **the first thing you do, is blacklist me**.  
-
-* I'm going to assume that you've chosen to use the "Everybody but blacklist" permission setting.  If you picked "Owner, lover, whitelist", then every place where I say "blacklist", replace it with "remove me from your whitelist".  Since the only way I could be attacking you in the first place, is if I talked you into putting me on your whitelist.  
-
-Blacklisting me stops the attack.  Blacklist me, and the worst thing I can do to you is call you bad names.  
-
-And then you can stop.  Take a breath.  And think about your options.  
-
-* In fact, one of your options is "talk to me, and see if it was a misunderstanding".  You have the option of simply doing some negotiation.  It's up to your judgement, and it's one of the options you have.  Blacklist can be undone.  And I obviously can't tell you what to do in every situation.  
-
-The other reason why I advise a policy of "blacklist first" has to do with timing.  Two of the three emergency release methods send you out of the room.  And if you leave the room, (or I leave), then it becomes a lot harder for you to blacklist me.  So you can't do "Release, then blacklist".  Because "release" sends you to the main hall.  
+* 游戏还有一个系统，在极少数情况下，当你身处无法离开的聊天室时，你的角色身上会出现一个按钮，允许你“召唤女佣到房间来帮助你”。我建议不要使用它。它会释放你

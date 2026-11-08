@@ -1,82 +1,82 @@
-# Things to buy
+# 需要购买的物品
 
-There are four things that I recommend all new players should buy in the store, as soon as they can.  I'm going to give you a list of the items, and then explain _way_ the items are important.  The "why" part will also tell you some things about how the game handles items that you do or don't own.  
+我建议所有新玩家尽早购买商店里的四样东西。我将为你列出这些物品，然后解释这些物品为什么很重要。“为什么”这一部分还会告诉你一些关于游戏如何处理你拥有或未拥有物品的机制。
 
-The items, starting with the one I recommend you get first, are:  
+这些物品（按我建议你获取的先后顺序排列）是：
 
-1. Wireless toy remote
-2. Metal padlock key
-3. Handcuff key
-4. Lockpicks
+1. 无线跳蛋遥控器（Wireless toy remote）
+2. 金属挂锁钥匙（Metal padlock key）
+3. 手铐钥匙（Handcuff key）
+4. 撬锁工具（Lockpicks）
 
-### About what you need to own, and what you don't
+### 关于你需要拥有的物品和不需要拥有的物品
 
-To start with, imagine that you, brand new player, were to meet me, experienced player, in a chat room.  You would notice that, if you clicked on me, the game would give you a huge list of things that you could use on me.  
+首先，想象一下，你作为一个全新玩家，在聊天室里遇到了我这个经验丰富的玩家。你会注意到，如果你点击我，游戏会给你一个庞大的列表，上面列出了你可以对我使用的所有物品。
 
-**When Player X clicks on Player Y, the game allows them to use almost every item that either of them owns**
+**当玩家 X 点击玩家 Y 时，游戏允许他们使用双方玩家拥有的几乎所有物品**
 
-I own a straitjacket.  That means I can put you in a straitjacket, you don't need to buy one.  And, you can use a straitjacket on me.  Because I own one.  You don't need to buy one, to use on me. 
+我拥有一个束缚衣（straitjacket）。这意味着我可以把你放进束缚衣里，你不需要自己买一个。而且，你也可以对使用束缚衣。因为我拥有一个。你不需要购买一个来对我使用。
 
-The exception to this rule is locks, keys, and the toy remote.  _Those_ items, you have to have bought yourself, or you can't use them.  
+这条规则的例外是锁、钥匙和玩具遥控器。这些物品，你必须自己购买，否则你无法使用它们。
 
-**Also, any item you buy in the store, is an infinite quantity.**  
+**此外，你在商店里购买的任何物品都是无限数量的。**
 
-Buy duct tape once, and you can mummify everybody in the club, and never run out.  
+买一次强力胶带，你就可以把俱乐部里的每个人都木乃伊化，而且永远不会用完。
 
-### About items you don't own
+### 关于你没有拥有的物品
 
-There is (almost) no way in the game for one player to transfer ownership of something to another player.  
+游戏中（几乎）没有任何方法可以让一个玩家将某物的拥有权转移给另一个玩家。
 
-Yes, I can put my straitjacket on you.  But that doesn't mean you own a straitjacket now.  When the straitjacket gets removed from you (by whatever method), it just goes away.  
+是的，我可以把我束缚衣穿在你身上。但这并不意味着你现在拥有了一件束缚衣。当束缚衣从你身上被移除时（无论通过什么方法），它就直接消失了。
 
-And almost the same thing applies to clothes.  I can dress you in clothes that you don't own. But clothes that you don't own will go away the next time you log on.   
+这几乎同样适用于服装。我可以给你穿你不拥有的服装。但是你不拥有的服装会在你下次登录时消失。
 
-The list of things to buy seems simple enough.  But _why_ they're important can tell you things.  
+要买的物品列表看起来很简单。但它们为什么重要，能告诉你很多事情。
 
-## Wireless toy remote
+## 无线跳蛋遥控器
 
-The bondage club has a lot of sex toys in it.  (I'll pause for you to act shocked.)
+捆绑俱乐部里有很多性玩具。（我暂停一下，好让你表现得大吃一惊。）
 
-The remote is sold separately.  
+遥控器是单独出售的。
 
-That means, if you buy a vibrator, you have to buy the remote, too.  Or you can't switch it _on_.  
+这意味着，如果你买了一个震动器，你也必须买遥控器。否则你就无法将其“打开”。
 
-It also means you can buy it, without buying a vibrator.  
+这也意味着你可以购买遥控器，而不买震动器。
 
-But, all of the vibrating toys in the game use _the same_ remote.  That means that if you buy three dildoes, two butt plugs, and two nipple vibrators, you only buy the remote once, and you can control all of them.  In fact, the store won't let you buy it more than once.  
+但是，游戏中的所有震动玩具都使用同一个遥控器。这意味着如果你买了三个假阳具、两个肛塞和两个乳头震动器，你只需要买一次遥控器，就可以控制所有这些玩具。事实上，商店不会允许你购买它多次。
 
-And, your toy remote lets you control all of your toys, _and everybody else's_.  Whether those toys are being used on you, or somebody else.  
+而且，你的玩具遥控器允许你控制你的所有玩具，以及其他所有人的玩具。无论这些玩具是用在你身上，还是用在其他人身上。
 
-* If your arms are bound, then you can't reach your remote, to use it.  
+* 如果你的手臂被绑住了，那么你就无法够到你的遥控器来使用它。
 
-I promise you, there will come a time when you _really_ want to turn a vibrator on or off.  On yourself, or on somebody else.  
+我向你保证，总有一天你会_真的很_想开启或关闭一个震动器。不管是在你自己身上，还是在别人身上。
 
-The toy remote is sold in the store "wherever vibrating toys are sold".  It's in the "naughty places" department, the butt department, the nipple department.  They're all the same item.  
+玩具遥控器在商店里“任何出售震动玩具的地方”都有售。它位于“淘气部位”部门、“臀部”部门、“乳头”部门。它们其实都是同一个物品。
 
-## Metal padlock key
+## 金属挂锁钥匙
 
-The basic lock in the game is the metal padlock.  To unlock it, you need the metal padlock key.  The key is, again, sold separately.  
+游戏中的基础锁是金属挂锁。要解开它，你需要金属挂锁钥匙。同样，钥匙是单独出售的。
 
-And the metal padlock key opens all of the metal padlocks in the game.  
+而且金属挂锁钥匙可以打开游戏中的所有金属挂锁。
 
-(Again, if your arms are bound, then you can't reach your key.)  
+（同样，如果你的手臂被绑住了，你就无法够到你的钥匙。）
 
-The metal padlock is actually used very rarely in the club.  Because probably 98% of the club has the key.  But you really don't want to be in the 2% that doesn't.  
+金属挂锁在俱乐部里其实很少使用。因为可能 98% 的俱乐部成员都有这把钥匙。但你真的不想成为没有钥匙的那 2%。
 
-Locks and keys are hard to find in the store.  They're in the "Items for the head" department, on a second page of head items.  
+锁和钥匙在商店里很难找。它们位于“头部物品”部门，在头部物品的第二页上。
 
-Also, don't run out and buy every key in the store.  Some of the keys are useless to you right now.  For example, the lover's key is useless, because you don't have a lover to use it on.  
+另外，不要冲出去把商店里的每一把钥匙都买下来。有些钥匙现在对你毫无用处。例如，恋人钥匙毫无用处，因为你没有恋人可以在其身上使用它。
 
-## Handcuff key
+## 手铐钥匙
 
-The handcuff key has the same description as the metal padlock key. Key sold separately, one key fits all.  The "metal cuffs:, and the handcuff key, are sold with the items for the arms.  
+手铐钥匙的描述与金属挂锁钥匙相同。钥匙单独出售，一把钥匙通配所有。“金属铐”和手铐钥匙与手臂物品一起出售。
 
-## Lockpicks
+## 撬锁工具
 
-The game recently added some locks, where everybody has to pick the lock to open them (there are some exceptions to that).
+游戏最近添加了一些锁，每个人都必须撬锁才能打开它们（有一些例外情况）。
 
-I'm really not a fan of the game's lockpick locks.  If they'd asked my opinion, I would have argued against them.  
+我真的很不赞成游戏的撬锁系统。如果他们征求我的意见，我会反对它们。
 
-And I intend to be writing a whole, separate, page on the lockpicking system.  With a lot more detail.  
+我打算就撬锁系统写一个完整、独立的页面。会有更多的细节。
 
-For now, I'll just say "I recommend you buy them".  They're sold with the locks and keys.  
+现在，我只想说“我建议你买它们”。它们与锁和钥匙一起出售。

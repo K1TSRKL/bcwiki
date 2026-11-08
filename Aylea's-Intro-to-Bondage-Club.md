@@ -1,39 +1,35 @@
-# Aylea's Intro to the Bondage Club
+# Aylea 的捆绑俱乐部（Bondage Club）新手指南
 
-First, Welcome to the Bondage Club.  
+首先，欢迎来到捆绑俱乐部！
 
-This represents an attempt to create a stand-alone version of the new player training classes that I've been teaching in the club for four years.  Hopefully, it will evolve over time.  But to start with, my intention is to really follow the plan that I've been using in class.  
+本文旨在创建一个独立的版本，用于替代我在俱乐部里教了四年的新手培训课程。希望它能随着时间不断完善。但首先，我的初衷是真正遵循我在课堂上使用的计划。
 
-That means, at least for now, this document will be aimed at brand new players in the club.  And I will assume that they are using the new player default settings.  
+这意味着，至少目前为止，本文档是针对俱乐部里的全新玩家的。并且我假设他们使用的是新手默认设置。
 
-So, I am not going to go into all of the possible cases of "Well, if you've gone into your profile and disabled so-and-so, or if you've chosen to use hardcore or extreme mode, then this part won't work, for you."  
+因此，我不会讨论所有可能的情况，比如：“好吧，如果你进入个人资料禁用了某某功能，或者如果你选择使用硬核或极限模式，那么这部分对你就不起作用了。”
 
-**Disclaimer:  Almost everything I'm about to teach in this document can be disabled in your profile settings.  These things will work, until you disable them.**  
+**免责声明：本文档中我要教的几乎所有内容都可以在你的个人资料设置中禁用。在禁用之前，这些功能都是有效的。**
 
-I'll also say - this is really intended as an introduction to _the chat rooms_ in the club.  Personally, I've done very little with the NPCs in the front part of the club.  "Intro to the Bondage Cub chat rooms" might be a better title.  
+我还想说明一点——这实际上是作为俱乐部中**聊天室**的引子。就我个人而言，我对俱乐部前台的 NPC 玩得很少。“Bondage Club 聊天室简介”可能是一个更好的标题。
 
-My intention is for this page to be a general welcome, and to serve as the table of contents for the rest.  My normal lesson plan consists of five major topics, and at least one minor part.  While I, of course, think people should read every part of every topic, I'm going to try to structure things so that people don't have to, if they don't want.  
+我的初衷是让这个页面成为一个通用的欢迎页面，并作为其余内容的目录。我的正常课程计划包括五个主要主题和至少一个次要部分。虽然我当然认为人们应该阅读每个主题的每个部分，但我会尝试组织好结构，以便人们如果不想读的话可以不读。
 
-Later, I might insert some of the topics that I've removed from the normal class, to try to shorten the class.  
+稍后，我可能会加入一些我为了缩短课程而从正常课程中删去的 主题。
 
-## Major Topics
+## 主要主题
 
-* ["The four ways of talking"](./Aylea's-Intro-The-Four-Ways-of-Talking): Or, how to use the typing box.  The methods are normal talking, actions (or "emotes"), OOC, and whisper.  
+* [“四种说话方式”](./Aylea's-Intro-The-Four-Ways-of-Talking)：或者说，如何使用输入框。这几种方法包括：正常说话、动作（或“表情”）、OOC（角色外）和私聊。
 
-* [Game Actions](./Aylea's-Intro-Game-Actions): Things like pet, kiss, spank.  And the famous "boop".  
+* [游戏动作](./Aylea's-Intro-Game-Actions)：诸如抚摸、亲吻、打屁股等动作，以及著名的“戳鼻子（boop）”。
 
-* [Character permissions](./Aylea's-Intro-Character-Permissions):  Deciding who can do things to you. 
+* [角色权限](./Aylea's-Intro-Character-Permissions)：决定谁可以对你做什么。
 
-* [The "manage my relationship" lists](./Aylea's-Intro-The-%22manage-my-relationship%22-lists): I've listed all the "lists" on a separate page.  The ghost, black, white, and friend lists.  
+* [“管理我的关系”列表](./Aylea's-Intro-The-%22manage-my-relationship%22-lists)：我将所有的“列表”列在了一个单独的页面上。包括幽灵名单（ghost）、黑名单、白名单和好友名单。
 
-* [Emergency Release Methods](./Aylea's-Intro-Emergency-Release-Methods): How to get untied in a hurry, if you need to.  
+* [紧急释放方法](./Aylea's-Intro-Emergency-Release-Methods)：如果需要的话，如何在紧急情况下解开束缚。
 
-* [Things to buy](./Aylea's-Intro-Things-to-Buy): The items I advise all new players to buy.  Includes a discussion of how the club handles items you do and don't own.  And is going to include a discussion of "Ways to make money"  
+* [要购买的物品](./Aylea's-Intro-Things-to-Buy)：我建议所有新玩家购买的物品。包括对俱乐部如何处理你拥有或未拥有物品的讨论，以及关于“赚钱方法”的讨论。
 
-* [Ownership and Lover Relationships.](./Aylea's-Intro-Owner-and-Lover-Relationships):  The rules for Owner and Lover relationships.  (And advice on them.)  
+* [所有者与恋人关系](./Aylea's-Intro-Owner-and-Lover-Relationships)：所有者和恋人关系的规则（以及相关的建议）。
 
-* [Creating a Chat Room](./Creating-a-room): How to create a chat room for players
-
-
-
-
+* [创建一个聊天室](./Creating-a-room)：如何为玩家创建一个聊天室

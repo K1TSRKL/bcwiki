@@ -1,178 +1,178 @@
-The game contains a lot of locks. Locks can be attached to most restraints, to alter them in many ways. I'll start off by talking about locks, in general.
+游戏包含许多锁。锁可以附加到大多数束缚上，以各种方式改变它们。我将从整体上谈谈锁开始。
 
-Locks can't be used by themselves. Instead, they get applied to other restraints. (To chain, for example.)
+锁不能单独使用。相反，它们被应用到其他束缚上。（例如链条。）
 
-In addition, just like I described for keys, earlier, locks can't be used by other players.
+此外，就像我之前对钥匙的描述一样，锁不能被其他玩家使用。
 
-Say you're a new player, who owns nothing. But I own chain, and a lock. Then you can use my chain on me. (Players can use items which the other person owns.) But you can't put my lock on my chain, you have to own a lock, yourself. (In fact, for the locks that have keys, you have to own the lock and the key, before you can use a lock.)
+假设你是一个什么都不拥有的新玩家。但我拥有链条和锁。那么你可以在我身上使用我的链条。（玩家可以使用对方拥有的物品。）但你不能把我的锁套在我的链条上，你必须自己拥有一个锁。（事实上，对于带钥匙的锁，在你使用锁之前，你必须同时拥有锁和钥匙。）
 
-This also means that to put a locked restraint on somebody requires at least two steps. One to apply the restraint. Then one to put the lock on the restraint.
+这也意味着，给某人套上带锁的束缚至少需要两个步骤。第一步是套上束缚。然后是把锁套在锁上。
 
-* The game recently added "crafted restraints", which allow the creation of restraints which have locks built in. And these restraints allow the application of a locked restraint, in one step. But I'm not covering crafted restraints here. In this page, I'm pretending they don't exist.
+* 游戏最近添加了“制作束缚”（crafted restraints），允许创建内置锁的束缚。这些束缚允许一步到位地套上带锁的束缚。但我在这里不讨论制作的束缚。在本页中，我假设它们不存在。
 
-## Examples of using locks.
+## 使用锁的示例
 
-I'm going to do some examples, to show how locks can be applied, and removed. I'm going to use two disposable characters I created.
+我将做一些示例，展示如何套上和移除锁。我将使用我创建的两个一次性角色：
 
-* "Newby" is a brand new character, who owns no game objects at all.
-* "Redshirt" owns most of the locks and keys.
+* “Newby”是一个全新的角色，根本不拥有任何游戏物品。
+* “Redshirt”拥有大部分锁和钥匙。
 
-I'm going to put leather collars on their necks, and lock them. To start with, I'm going to use the game's basic lock, the metal padlock.
+我将把皮革项圈套在他们的脖子上并锁上。首先，我将使用游戏的基础锁：金属挂锁。
 
-First, I'll put a Leather collar on Newby.  Without a lock.  
+首先，我把皮革项圈套在 Newby 脖子上。没有锁。
 
-If Newby clicks on herself, and on her neck (The zone in the center, where collars go), this is what she'll see.
+如果 Newby 点击她自己，然后点击她的脖子（中央区域，项圈所在的位置），这就是她会看到的。
 
 ![Screenshot of Newby with unlocked collar](https://imgur.com/RVgN2O3.png)
 
-She has a collar on. And since her hands are free, she can click the "X" button on the top of the screen, to remove the collar.  That's the way (unlocked) restraints work.  
+她戴着项圈。由于她的手是自由的，她可以点击屏幕顶部的“X”按钮来移除项圈。这就是（未上锁的）束缚的工作方式。
 
-Now, I'll put a metal padlock on Newby's collar, to show what effect the lock has. 
+现在，我将把金属挂锁套在 Newby 的项圈上，以展示锁的效果。
 
-I will click on Newby again, and click on the neck zone. (The zone in the center of the three neck zones.  That's where collars go.) When I go there, the game will show the leather collar that Newby is wearing. (It will also show all of the other collars that I _could_ apply to Newby, instead. But I'm not going to.)
+我将再次点击 Newby，并点击脖子区域。（三个脖子区域中最中间的区域。那是项圈所在的地方。）当我到那里时，游戏会显示 Newby 正在佩戴的皮革项圈。（它还会显示我_可以_套在 Newby 身上的所有其他项圈。但我不会这么做。）
 
-And, at the top of the screen, there will be a lock icon.
+并且，在屏幕顶部，会有一个锁图标。
 
 ![Screenshot showing lock icon](https://i.imgur.com/DEJCpFC.png)
 
-Clicking that icon will show the locks that I could apply to Newby's collar. Clicking on "Metal padlock" will apply that lock to the collar.
+点击该图标将显示我可以套在 Newby 项圈上的锁。点击“金属挂锁”将把该锁套在项圈上。
 
-_Now_ if Newby clicks on herself, and clicks on her neck, this is what she will see:
+_现在_如果 Newby 点击她自己并点击她的脖子，这就是她会看到的：
 
 ![Same collar, but with a lock](https://i.imgur.com/h1l5sF0.png)
 
-Before the lock was applied, Newby could have simply used the X button to remove the collar. After all, her hands are free. She can just unbuckle it.  But with the lock applied, she doesn't have the X button any more. She can't just unfasten the collar. 
+在套锁之前，Newby 本可以简单地使用 X 按钮来移除项圈。毕竟，她的手是自由的。她可以解开它。但上了锁之后，她就没有 X 按钮了。她不能直接解开项圈。
 
-She can try to "struggle out". (Although the lock will make struggling out a lot tougher, too.) She might not be able to struggle out of it, either.
+她可以尝试“挣脱”。（尽管锁也会让挣脱变得更加困难。）她可能也无法挣脱。
 
-The lock makes the restraint permanent. (In most cases.)
+锁使束缚变得永久化。（在大多数情况下。）
 
-Newby does, however, have a button to access the "lock menu". It's this one. 
+然而，Newby 确实有一个访问“锁菜单”的按钮。就是这个。
 
 ![Newby's lock menu button](https://i.imgur.com/LJAsr8x.png)
 
-If she clicks that button, it will give her a "lock menu" with only one option on it, to "inspect the lock". 
+如果她点击该按钮，它将给她一个只有一个选项的“锁菜单”，即“检查锁”。
 
 ![Newby's lock menu](https://i.imgur.com/Y78cLvu.png)
 
-If she does so, it will tell her that it's a metal padlock, and that it was applied by me.
+如果她这样做，它会告诉她这是一把金属挂锁，并且是由我套上的。
 
-But I put the same collar and lock on Redshirt.  Redshirt owns the metal padlock key. (Redshirt read Aylea's Intro. And Chapter 5 told her to buy the key.)
+但我把同样的项圈和锁套在了 Redshirt 身上。Redshirt 拥有金属挂锁钥匙。（Redshirt 读了 Aylea 的介绍。第 5 章告诉她买这把钥匙。）
 
-If Redshirt goes to _her_ lock menu, there will be a button there to unlock the lock.
+如果 Redshirt 去看_她自己的_锁菜单，那里会有一个解锁锁的按钮。
 
 ![Redshirt's lock menu](https://i.imgur.com/annkQmx.png)
 
-Clicking the unlock button will unlock the lock. (Removing the lock). The unlock button will leave _the collar_ in place.
+点击解锁按钮将解锁。（移除锁）。解锁按钮将使_项圈_保留在原位。
 
-(If Redshirt's hands were bound, then she would be unable to _reach_ her key. And the game would treat her as though she didn't own the key. She'd see the same screens Newby saw.)
+（如果 Redshirt 的手被绑着，那么她将无法_够到_她的钥匙。游戏会把她当作不拥有钥匙来对待。她会看到和 Newby 看到的一样的屏幕。）
 
-Also. Since Redshirt's collar is locked with a metal padlock, and Redshirt has the key for the lock, then when Redshirt clicks on her own collar, (even before she goes to the lock menu), she _will_ have the "X" button to "remove restraint". The X button will unlock the collar, and remove the collar, in one step.
+还有。既然 Redshirt 的项圈是用金属挂锁锁上的，并且 Redshirt 拥有该锁的钥匙，那么当 Redshirt 点击她自己的项圈时（甚至在她去锁菜单之前），她_将_拥有用于“移除束缚”的“X”按钮。X 按钮将一步解锁项圈并移除项圈。
 
-_Some_ locks are more complicated than the basic metal padlock. But I'll explain the ways they're different, when I describe individual locks.
+_某些_锁比基础金属挂锁更复杂。但当我描述单独的锁时，我会解释它们的不同之处。
 
-## Metal Padlock
+## 金属挂锁
 
-The basic lock in the game. It can be unlocked by anybody who owns the metal padlock key. And almost everybody owns the key. So it doesn't get used much.
+游戏中的基础锁。任何拥有金属挂锁钥匙的人都可以将其解锁。几乎所有人都拥有这把钥匙。所以它不经常使用。
 
-## Exclusive Padlock
+## 专属挂锁（Exclusive Padlock）
 
-A frequently used lock. Might be a good candidate for "first lock to buy". The exclusive lock can be opened, no key needed, by anybody in the game _except the person it's locked on_.
+一种经常使用的锁。可能是“要买的第一把锁”的好候选。专属锁可以被游戏中的任何人打开，不需要钥匙，_除了被锁住的那个人_。
 
-Yes, you can use it on yourself. And then everybody in the game will be able to unlock you, except you.
+是的，你可以把它用在你自己身上。然后游戏中的每个人都可以解锁你，除了你自己。
 
-## Five minute lock
+## 五分钟锁
 
-The five minute lock is a timer lock. (There are other, more complicated, timer locks, that have characteristics in common with this one. But this is the basic one.)
+五分钟锁是一个定时锁。（还有其他更复杂的定时锁，它们与这个锁有共同的特征。但这是最基本的。）
 
-If I put a five minute lock on Redshirt, and then inspect the lock, this is what I'll see:
+如果我在 Redshirt 身上套上五分钟锁，然后检查锁，这就是我将看到的：
 
 ![Inspecting Redshirt's 5 minute lock](https://i.imgur.com/uQBVyRO.png)
 
-The five minute lock does not have a key. _No one in the game can unlock the five minute lock_. (There's no "unlock" button on the lock menu.) Instead, when the lock is applied, it starts a five minute countdown. When the timer gets to zero, the lock unlocks itself.
+五分钟锁没有钥匙。_游戏中的任何人也无法解锁五分钟锁_。（锁菜单上没有“解锁”按钮。）相反，当锁被套上时，它开始一个五分钟的倒计时。当计时器归零时，锁会自动解锁。
 
-Notice the lock options on the lock, though. There's a box that can be checked. If it's checked, then when the lock unlocks itself, the restraint goes away, too. If the box is not checked, then when the timer runs out, the lock goes away, but the restraint stays.
+注意锁上的锁选项。有一个可以勾选的框。如果选中它，当锁自动解锁时，束缚也会消失。如果未选中该框，则当时间耗尽时，锁会消失，但束缚会保留。
 
-(The screenshot shows _me_, looking at Redshirt's lock. I'm the person who applied the lock. Other people looking at the lock would not have the option to check or uncheck that box.)
+（截图显示的是_我_在看 Redshirt 的锁。我是套上锁的人。其他人看这个锁时没有勾选或取消勾选该框的选项。）
 
-And notice that "restart timer" button.
+注意那个“重启计时器”按钮。
 
-_Everybody in the room has the ability to push that reset button. Pushing it makes the five minute timer start over again._
+_房间里的每个人都有能力按下那个重置按钮。按下它会让五分钟的计时器重新开始。_
 
-The five minute lock doesn't get used often. But it can be a lot of fun in the right room, with everybody watching that timer, wondering if somebody is going to push that button.
+五分钟锁不经常使用。但在合适的房间里，当每个人都在看着那个计时器，想知道是否有人会按下那个按钮时，它可以带来很多乐趣。
 
-## Combination Lock
+## 组合锁（Combination Lock）
 
-The combination lock doesn't have a key. It has a combination. If Redshirt inspects her combination lock, this is the screen she will see.
+组合锁没有钥匙。它有一个组合密码。如果 Redshirt 检查她的组合锁，这就是她将看到的屏幕。
 
 ![Redshirt's view of a combo lock](https://i.imgur.com/FB8oIKF.png)
 
-Redshirt can enter a combination, which is always four digits. And click the "unlock" button. If it's the right combination, the lock will unlock. (If it's wrong, the lock stays locked, and the game will announce what code you tried to use.)
+Redshirt 可以输入一个组合密码，密码总是四位数。并点击“解锁”按钮。如果是正确的组合，锁就会解锁。（如果错了，锁保持锁上，游戏会宣布你试图使用什么代码。）
 
-She can also enter the correct code in the first box, and a different code in the second, and click the "change code" button, to change the combination.
+她也可以在第一个框中输入正确的代码，在第二个框中输入不同的代码，然后点击“更改密码”按钮来更改组合。
 
-All combination locks, when they're first applied, have the code "0000". So, applying a restraint with a combination lock takes three steps:
+所有组合锁在初次套上时的代码都是“0000”。因此，用组合锁套上束缚需要三个步骤：
 
-1. Apply the restraint
-2. Go back to the restraint, and apply the combination lock.
-3. Go back to the lock, inspect the lock, and change the code to something else.
+1. 套上束缚
+2. 回到束缚处，套上组合锁。
+3. 回到锁处，检查锁，并将代码更改为其他内容。
 
-There are also three people whom the game will _tell_ the combination to. (If they inspect the lock, the code will be displayed in the box. They still have to type in the code, or the game will act like they left the code blank. But the game tells them which code to type.) Those people are:
+游戏还会把组合密码_告诉_三个人。（如果他们检查锁，代码将显示在框中。他们仍然必须输入代码，否则游戏会表现得好像他们把代码留空了一样。但游戏会告诉他们输入哪个代码。）这些人是：
 
-1. The person who applied the lock.
-2. The owner (if any) of the person it's locked on.
-3. The lover(s) (if any) of the person it's locked on. (If they own the lover's key.)
+1. 套上锁的人。
+2. 被锁住的人的所有者（如果有的话）。
+3. 被锁住的人的恋人（如果有的话）。（如果他们拥有恋人钥匙。）
 
-## Password Lock
+## 密码锁（Password Lock）
 
-The password lock uses the same rules as the combination lock, except instead of a four digit code, it takes 1-8 letters. (And the person applying the lock is allowed to provide a password hint, on the lock.)
+密码锁使用与组合锁相同的规则，除了它不是 4 位数字的代码，而是采用 1-8 个字母。（并且套上锁的人可以在锁上提供密码提示。）
 
-## Safeword Lock
+## 警示词锁（Safeword Lock）
 
-The safeword lock works just like a password lock, except it adds a fourth person who the game will show the password to.
+警示词锁的工作方式与密码锁完全相同，只是它增加了一个游戏会向其显示密码的第四个人。
 
-4. The person it's locked on.
+4. 被锁住的人。
 
-I've used it, sometimes. When I wanted to make sure that the person could unlock themselves. I've also seen it used for things like locking a chastity on somebody, so that _nobody else_ can remove the chastity and put a lock on that the person can't remove.
+有时我会使用它。当我想要确保那个人能够自己解锁时。我也见过它用于诸如在某人身上锁上贞操带之类的事情，这样_其他人_就无法移除贞操带并套上该人无法移除的锁。
 
-## Password Timer Lock
+## 密码定时锁（Password Timer Lock）
 
-Same rules as the password lock, but it _also_ has a timer, which can be set up to 4 hours. When the time runs out, the lock removes itself. (And, if the box is checked, the restraint might or might not go away at the same time.)
+与密码锁相同的规则，但它_也_有一个定时器，可以设置长达 4 小时。时间耗尽时，锁会自动移除。（并且，如果勾选了该框，束缚可能会也可能不会同时消失。）
 
-## Intricate padlock
+## 精巧挂锁（Intricate Padlock）
 
-There's no key you can buy for this lock.
+你买不到这把锁的钥匙。
 
-Three people are treated as though they have keys for this lock, without having to buy any keys:
+三个人被视为拥有这把锁的钥匙，而无需购买任何钥匙：
 
-1. The person who applied the lock
-2. The owner (if any) of the person it's locked on.
-3. The lover(s) (if any) of the person it's locked on. (If they own the lover's key.)
+1. 套上锁的人
+2. 被锁住的人的所有者（如果有的话）。
+3. 被锁住的人的恋人（如果有的话）。（如果他们拥有恋人钥匙。）
 
-Other people are allowed to attempt to "pick the lock". If they own the lockpick set. Or if someone lends them some lockpicks.
+其他人被允许尝试“撬锁”。如果他们拥有撬锁工具套装。或者如果有人借给他们一些撬锁工具。
 
-* There's a mini-game involved, in picking the lock. I'm going to write a sub-page that goes over how to pick locks. It's a pain. But you'll get better at it.
+* 涉及到撬锁的小游戏。我将写一个子页面来介绍如何撬锁。这很麻烦。但你会越来越擅长的。
 
-## High Security Padlock
+## 高安全性挂锁（High Security Padlock）
 
-Uses the same rules as the intricate padlock. It's just harder to pick.
+使用与精巧挂锁相同的规则。只是更难撬开。
 
-And, it has a list of authorized users. This allows the lock owner to "give keys to other players", by adding the other player's member numbers to the list. The other players will be able to open the lock without picking it, too.
+而且，它有一个授权用户列表。这允许锁的主人通过将其他人的成员编号添加到列表中来“向其他玩家发放钥匙”。其他玩家也将能够无需撬锁即可打开锁。
 
-## Mistress Locks
+## 女主人锁（Mistress Locks）
 
-Mistress locks can be applied, or unlocked, by anybody who has the mistress key. But, that key can't be bought. Instead, people who achieve the status of "Club Mistress" are given the key, and the locks. (And if they lose that status, they get taken away.)
+女主人锁可以由任何拥有女主人钥匙的人套上或解锁。但是，该钥匙是买不到的。相反，获得“俱乐部女主人”地位的人会被授予钥匙和锁。（如果他们失去了这个地位，它们就会被收回。）
 
-## Pandora's Box Lock.
+## 潘多拉魔盒锁（Pandora's Box Lock.）
 
-The lock, and the key, can't be bought. You can earn them in the club's "Infiltration game", in the main hall.
+锁和钥匙是买不到的。你可以在主大厅的俱乐部“潜入游戏”中赢得它们。
 
-## Lover's Locks
+## 恋人锁（Lover's Locks）
 
-Can only be applied to lovers, by lovers. Can only be unlocked by lovers of the person it's locked on, and only if they own the lover's key.
+只能由恋人套在恋人身上。只能由被锁者的恋人解锁，并且前提是他们拥有恋人钥匙。
 
-## Owner's Locks.
+## 所有者锁（Owner's Locks）
 
-Same as "Lovers", but for owners. The "Slave Collar", and "Love Chastity Belt" are treated as though they have owner locks already on them.
+与“恋人”相同，但针对所有者。 “奴隶项圈”和“爱心贞操带”被视为已经戴上了所有者锁。
 
-Also, owned players can apply owner locks _to themselves_. (But only their owner can remove them.) (The owner can also take away this ability.)
+此外，被拥有的玩家可以自己将所有者锁套在_自己身上_。（但只有他们的所有者可以移除它们。）（所有者也可以剥夺此能力。）

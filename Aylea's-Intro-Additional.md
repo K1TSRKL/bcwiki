@@ -1,12 +1,11 @@
-**Additional Information**
+**附加信息**
 
-The first six chapters of this guide represent the materials which I used to teach to new players, one at a time, in a private room.  Doing so typically took me around two hours, per student, to teach.  
+本指南的前六章内容代表了我过去在私密房间里一次教给一名新学生的材料。通常情况下，每教完一个学生大约需要两个小时。
 
-I was constantly struggling to remove as many things as possible from the classes, to try to keep the student's time down.  (A lot of students couldn't stay online for the whole class.  And I was constantly struggling over which things to leave out.)  
+我一直在努力尽可能多地从课程中删减内容，以缩短学生的时间。（很多学生无法在线听完整节课。我也一直在纠结到底该舍弃哪些内容。）
 
-The first six chapters represent the things that I figured new players absolutely _needed_ to know.  For safety.  
+前六章代表了我认为新玩家绝对_需要_了解的内容。为了安全起见。
 
-But.  Now that my "class" consists of this guide, I can include more things.  Including some of the things that I was forced to remove from my classes, due to time.  Now, players can read the guide on their own time, so I can include more things.  
+但是。既然我的“课程”现在由这份指南组成，我就可以包含更多内容了。包括一些由于时间关系我被迫从课程中删去的内容。现在，玩家可以在自己的时间阅读指南，所以我可以加入更多东西。
 
-My intent is to add additional topics, that people can read when they feel like it, covering more things.  And add them as sub-documents to this one.  
-
+我的目的是添加更多的主题，供人们在想看的时候阅读，涵盖更多内容。并将它们作为本文档的子文档添加进来。
