@@ -1,69 +1,69 @@
-# Owner and Lover Relationships
+# 所有者与恋人关系
 
-Congratulations.  This is the last major portion of my usual new player training class.  
+恭喜。这是我常规新玩家培训课程的最后一部分。
 
-Since this is a text document, instead of an in-person class, I'm going to lead off with a piece of advice that I usually finish the class with.  So that I can reach the people who don't read the document to the end.  
+既然这是一个文本文档，而不是面对面的课程，我将以一条我通常在课程结束时给出的建议作为开篇。这样我就能接触到那些没有把文档读到最后的人。
 
-### Advice for new players, on relationships
+### 给新玩家关于关系的建议
 
-**Don't accept any offers to be somebody's submissive or girlfriend, your first week in the club.**
+**在俱乐部的第一周，不要接受任何成为某人顺从者或女朋友的邀请。**
 
-The club has a lot of "collectors".  People who want to own everybody in the club.  Frankly, they are one of the main reasons why I've spent my time, training new people.  To try to save the new people from having to go through the pain that they cause.  
+俱乐部里有很多“收藏家”。那些想要拥有俱乐部里所有人的人。坦率地说，这也是我花时间培训新人的主要原因之一。试图把新人们从他们造成的痛苦中拯救出来。
 
-If you get in a relationship with one of them, it will end in a breakup.  And breakups hurt.  Even in here. In fact, things like whips and chains and shock plugs can't hurt the person at the keyboard.  But breakups and emotions and neglect, can.  
+如果你和他们中的一个人建立关系，它将以分手告终。分手是痛苦的。即使在这里也是如此。事实上，鞭子、链条和震动塞无法伤害键盘后的人。但分手、情绪和冷落可以。
 
-Now, I have to also mention.  Just because somebody makes an offer to you does not automatically mean they're a predator.  I've seen new people get really good owners on their first day in the club.  
+现在，我也必须提一下。仅仅因为某人向你发出邀请并不意味着他们就是掠夺者。我见过新人在加入俱乐部的第一天就遇到了非常好的所有者。
 
-I've just also seen _a lot_ get "collected", and a _good_ owner will be perfectly happy with "Let's be friends for a week, first".  
+我也见过_很多人_被“收集”，而一个_真正好_的所有者会非常乐意接受“我们先做一周的朋友吧”。
 
-Also, for the folks who might be reading this who have already agreed to being owned? I am **not** advising you to run right out and dump your owner. Just as agreeing to try ownership is a big decision that shouldn't be made quickly, choosing to leave one is a big decision, too.  
+另外，对于那些可能正在阅读本文且已经同意被拥有的人？我**不**是建议你马上跑去甩掉你的所有者。正如同意尝试所有权是一个不应轻易做出的重大决定一样，选择离开同样是一个重大决定。
 
-And obviously, this document can't advise you on whether you have a good owner or not.  Only you can make that decision.  
+显而易见，本文档无法建议你是否拥有一个优秀的所有者。只有你能做出这个决定。
 
-## Ownership
+## 所有者关系
 
-I'm going to go through the steps of an owner relationship.  To save typing, I'm going to pretend that I'm about to become the owner of you, because it's easier to type "I" and "you" then "the owner" and "the submissive".  
+我将经历所有者关系的各个步骤。为了省打字时间，我将假装我即将成为你的所有者，因为输入“我”和“你”比输入“所有者”和“顺从者”更容易。
 
-**Ownership begins when I offer you a trial period as my submissive.**  You will get a message.  Nobody else will see it.  The message will say that if you want to accept my offer, click on me, then "Manage my relationship", and there will be a button there to accept my offer.  
+**所有者关系始于我向你提供作为我顺从者的试用期。** 你会收到一条消息。其他人看不到。该消息将说明，如果你想接受我的邀请，点击我，然后点击“管理我的关系”，那里会有一个按钮可以接受我的邀请。
 
-Nothing happens unless you accept.  
+除非你接受，否则什么都不会发生。
 
-Once you accept, you are "on trial", and a message will inform everyone in the chat room that you've started a trial.
+一旦你接受了，你就处于“试用期”，并且一条消息将通知聊天室里的每个人你已经开始试用。
 
-I instantly gain several powers over you:  
+我立即获得了对你的几项权力：
 
-1. I can see you on my "friend finder" list.  I can see the room you're in, even if it's a private room*.  (You can only see me if we also friend each other.  And friends don't see private rooms.)  
-2. I can apply owner locks to you.  Special locks that can only be applied, and removed, by your owner.  Me.  
-3. I can apply the "love chastity" to you.  Which is for owners, not lovers.  
-4. I can **remove** any lock in the game from you.  Even locks that I can't remove from other people.  For example, I can remove lover's locks from you, without being a Club Mistress.  
+1. 我可以在我的“好友查找器”列表中看到你。我可以看 到你在哪个房间，即使它是私密房间\*。（只有在我们互加好友时你才能看到我。并且好友看不到私密房间。）
+2. 我可以对你施加所有者锁。只有你的所有者才能施加和移除的特殊锁。也就是我。
+3. 我可以对你施加“爱心贞操”。这是给所有者用的，而不是恋人。
+4. 我可以为你**移除**游戏中的任何锁。甚至是那些我无法从其他人身上移除的锁。例如，无需成为俱乐部女主人，我就可以为你移除恋人锁。
 
-\* I'm referring to private _chat_ rooms.  The club also has your personal "private room", in the front part of the club, which only work for NPC, complete opposites of the rooms in the chat area.
+\* 我指的是私密_聊天_房间。俱乐部在俱乐部前台也有你个人的“私密房间”，它们只适用于 NPC，与聊天区域的房间完全相反。
 
-**You can end your trial period at any time.**  Go to Club Management.  (Main hall, click on the "Heel" icon.)  Tell the mistress you want to end your trial period and that's it, you're no longer owned.  They will also remove any "owner only" items at the same time.  
+**你可以随时结束你的试用期。** 前往俱乐部管理处。（主大厅，点击“高跟鞋”图标。）告诉女主人你想结束试用期，就是这样，你不再被拥有了。他们同时也会移除任何“仅限所有者”的物品。
 
-**Once you've been on trial for 7 days, I can offer you full ownership.**  I don't have to offer it.  You can stay "on trial" forever.  I just can't offer it sooner than 7 days.  
+**一旦你试用了 7 天，我就可以向你提供完整的所有者关系。** 我不一定非要提供。你可以永远保持“试用”状态。我只是不能在 7 天之前提供它。
 
-Again, you'll get a message.  And nothing happens unless you accept.  Once you do, a message will inform everybody in the room that you are now fully owned.  
+同样，你会收到一条消息。并且除非你接受，否则什么都不会发生。一旦你接受了，一条消息将通知房间里的每个人你现在已被完全拥有。
 
-Once you accept, I gain a lot more powers over you.  
+一旦你接受了，我对你获得了更多权力：
 
-1. I can disable your ability to dress yourself.  Other people can change your clothes, and you just have to wear it.  
-1. I can take away your lock keys, and/or toy remote.  And forbid the store from selling them to you.  
-1. I can disable your ability to use whisper, if you're gagged and I'm in the room.  
-1. I can send you to the "timer cell".  Or make you sell drinks in the club, and give me your pay.  
+1. 我可以禁用你给自己穿衣服的能力。其他人可以更换你的衣服，而你只能穿着它。
+2. 我可以拿走你的锁钥匙和/或玩具遥控器。并禁止商店向你出售它们。
+3. 如果你被堵住嘴而我在房间里，我可以禁用你使用私聊的能力。
+4. 我可以把你送到“计时小黑屋”。或者让你在俱乐部里卖饮料，并把你的薪水交给我。
 
-**Once you're fully owned, you can still go to club management and end the ownership.**  But now there's a fee.  $60 the first time, and $200 after that.  And if you have a "submissive" reputation, 24 hours without clothes.  
+**一旦你被完全拥有，你仍然可以去俱乐部管理处结束所有权。** 但现在需要收费。第一次 60 美元，之后每次 200 美元。如果你有“顺从”声誉，还要 24 小时不能穿衣服。
 
-## Lover Relationships
+## 恋人关系
 
-The club also has "lover" relationships.  They're similar to ownership, but there's a few important differences.  
+俱乐部也有“恋人”关系。它们类似于所有者关系，但有几个重要区别。
 
-**They give less powers.**  Lovers can:  
+**它们赋予的权力较少。** 恋人可以：
 
-1. See in which room each of their lovers are, including private rooms.  
-2. Use lover-only locks, which use special keys.  And a special vibrator, which uses a special remote.  
-3. They can _remove_ any locks but owner locks.  (To get the "remove locks" power, you must be a lover, and own the lover's key.)  
+1. 看到每个恋人在哪个房间，包括私密房间。
+2. 使用仅限恋人的锁，这些锁使用特殊的钥匙。以及使用特殊遥控器的特殊振动器。
+3. 他们可以_移除_除所有者锁之外的任何锁。（要获得“移除锁”的权力，你必须是恋人，并拥有恋人钥匙。）
 
-**The relationship is "bi-directional".**  If I own you, then I get a bunch of powers.  And all you get is the power to end the relationship.  But if you're my lover, then I'm your lover, too.  And we both get the same powers.  
+**这种关系是“双向的”。** 如果我拥有你，我会得到一堆权力。而你得到的只有结束关系的权力。但如果你是我的恋人，那么我也是你的恋人。我们俩都获得相同的权力。
 
-Finally, each player can only have one owner (at a time).  But can have up to 5 lovers.  
+最后，每个玩家只能拥有一个所有者（一次只能有一个）。但最多可以有 5 个恋人。

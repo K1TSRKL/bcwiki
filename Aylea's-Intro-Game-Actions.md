@@ -1,45 +1,45 @@
-# Game Actions
+# 游戏动作
 
-I'm going to assume that everybody already knows how to apply and remove basic restraints.  That's the only thing that the game actually teaches new players.  
+我假设每个人都已经知道如何应用和移除基本的束缚。这是游戏实际教给新玩家的唯一内容。
 
-* If you haven't, I recommend that everybody go through the club's "introductory class".  Go to the main club, and select the icon that looks like a letter "i" inside a circle.  It will teach you how to apply, remove, and to (attempt to) struggle out of basic restraints.  And at the end it will give you several basic restraints that everybody else got for free when they started out as new players.  
+* 如果你还没学过，我建议每个人都去参加俱乐部的“新手教程”。前往主大厅，选择圆圈里面带有字母“i”图标的选项。它会教你如何应用、移除束缚，以及如何（尝试）从基本束缚中挣脱。在最后，它会给你几个基本束缚，这些束缚是其他人在作为新玩家刚开始时免费获得的。
 
-**How to perform a game action**
+**如何执行游戏动作**
 
-Performing a game action (I call them "game actions", because they are actions which the game actually recognizes), like applying a restraint. (I'm going to use the pronouns "you" and "me", as though you are performing a game action on me.)  
+执行游戏动作（我称它们为“游戏动作”，因为它们是游戏实际识别的动作），比如应用束缚。（我将使用代词“你”和“我”，就像你正在对我和执行游戏动作一样。）
 
-* Click on me.  This will take you to a screen that just has you and me on it.  
-* Click on me again.  This will draw the boxes, the "zones" over me.  
-* Click on a zone.  I suggest the eyes, to start with.  Top center.  
-* The game will show you several items you can use on my eyes, but ignore them.  
-* Instead, up at the top of the page, click the button that looks like lips.  
-* The game will show you ACTIONS you can perform on my eyes.  Go ahead and click one.  
+* 点击我。这会把你带到一个只有你和我的屏幕上。
+* 再次点击我。这会在我身上画出方框、“区域”。
+* 点击一个区域。我建议从眼睛开始。正上方。
+* 游戏会向你展示几个你可以用在我眼睛上的物品，但请忽略它们。
+* 相反，在页面顶部，点击看起来像嘴唇的按钮。
+* 游戏会向你展示你可以对我的眼睛执行的“动作”。去点击一个吧。
 
-Which actions you can pick will change, depending on things like which zone you clicked on, what I'm wearing, whether you're bound.  
+你可以选择哪些动作会根据你点击了哪个区域、我穿着什么、你是否被绑住等因素而改变。
 
-There are actions you can only perform on yourself.  (Start by clicking on yourself, instead of somebody else).  Like "wiggle your butt".  
+有些动作你只能对自己执行。（首先点击你自己，而不是别人）。比如“扭动你的屁股”。
 
-And actions you can only perform on yourself, if you're bound or gagged.  Like "struggle against restraints" or "moan into gag".  
+如果你被绑住或堵住嘴，有些动作你只能对自己执行。比如“挣扎对抗束缚”或“在口枷中呻吟”。
 
-And, some of the actions in the game are very badly mis-labeled.  
+而且，游戏中的一些动作命名非常糟糕。
 
-For example, a lot of the club seems to be in love with "nose" "pet", which actually does the action "You booped Aylea's nose".  (Me, I don't get the appeal of that action.  But lots of people in the club love it.)  
+例如，俱乐部里的大多数人似乎都喜欢“鼻子”的“抚摸（pet）”，它实际执行的动作是“你轻触了 Aylea 的鼻子”。（就我个人而言，我不觉得那个动作有什么吸引力。但俱乐部里的很多人都喜欢它。）
 
-But me, I think the cutest action in the game is "nose" "cuddle", which does the action "You nose-nuzzled Aylea".  I think it's really cute, when somebody is tied up and gagged.  
+但我觉得游戏中最高可爱的动作是“鼻子”的“拥抱（cuddle）”，它执行的动作是“你用鼻子蹭了 Aylea”。当有人被绑住并塞住嘴时，我觉得这真的很可爱。
 
-## The differences between "keyboard actions" and "mouse click actions".  And how to combine them.  
+## “键盘动作”与“鼠标点击动作”的区别。以及如何将它们结合起来。
 
-Now.  If you've been going through things in order, you've noticed that there are two methods for how to do a lot of things.  There's the "type it in the typing box, with an * in front of it" method, and the "click through the menus and select the action" method.  
+现在。如果你一直按顺序阅读，你已经注意到有很多事情可以通过两种方法来完成。“在打字输入框中输入，前面加一个 *”的方法，以及“通过菜单点击并选择动作”的方法。
 
-They both have their advantages.  
+它们各有优势。
 
-* The keyboard actions have the ability to do _anything_.  If you can describe "The scientist injects the victim with nanobots, which travel through the her bloodstream, causing all of her arm, from the elbows to the fingers, to extend in a straight line and lock in that position, while leaving the shoulder completely unaffected", then go for it.  
-But _the game_ will not respond to whatever you described in any way.  You can type that action, but the game will still allow the person to cross her hands behind her back.  
-* Whereas, with the "mouse click" actions, you're limited to the options the game gives you.  But the game will respond to them.  For example, if I use a mouse click to kiss you, or pet your head, both of our arousal meters will go up.  
+* 键盘动作能够做到_任何事情_。如果你能描述“科学家给受害者注射了纳米机器人，纳米机器人通过她的血液流动，导致她的整条手臂从手肘到手指呈直线延伸并锁定在该位置，同时完全不影响肩膀”，那就去做吧。
+但_游戏_不会对你所描述的任何内容做出任何反应。你可以输入该动作，但游戏仍然允许这个人把双手交叉在背后。
+* 然而，通过“鼠标点击”动作，你仅限于游戏为你提供的选项。但游戏会对它们做出反应。例如，如果我使用鼠标点击来吻你或抚摸你的头，我们两人的兴奋度都会上升。
 
-Therefore something you will see a lot of people do is, they will use the * to _describe_ some action, in great detail.  And then they will perform a mouse-click action that's kind of close to it, to make the game respond.  Your feed may show you something like:  
+因此，你会看到很多人这样做：他们会用 * 来详细_描述_某个动作。然后他们会执行一个与之比较接近的鼠标-点击动作，让游戏做出反应。你的动态流可能会向你显示类似这样的内容：
 
-* \* Aylea places her hand behind your neck, forcing your face against hers, as she passionately kisses you around the gag strapped tightly in your mouth"  
-* (Aylea kisses you on the gag)
+* \* Aylea 把手放在你的脖子后面，强迫你的脸贴着她的脸，当她在你紧紧绑着口枷的嘴周围充满激情地吻你时”
+* (Aylea 吻了你的口枷)
 
-Those two lines - the action with the * and the mouse-click action - are one action.  It's just done twice, to generate the passionate description, while making the game notice it.  
+这两行——带 * 的动作和鼠标点击动作——是一个动作。它只是做了两次，以产生热情的描述，同时让游戏注意到它。

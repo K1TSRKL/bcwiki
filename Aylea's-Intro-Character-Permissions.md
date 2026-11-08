@@ -1,108 +1,108 @@
-# Character Permissions
+# 角色权限
 
-Next I'm going to talk about what the game calls "Item permissions", but I call "Character permissions".  (Because they operate at the character level, and there's another set of permissions that actually do operate at the item level.  I might add a description of that system in an add-on chapter.)  
+接下来我要谈谈游戏称为“物品权限”但我称之为“角色权限”的内容。（因为它们在角色级别上运行，而另一套权限实际上在物品级别上运行。我可能会在附加章节中添加对该系统的描述。）
 
-* Note: this page will make a lot of references to people being on your blacklist, or whitelist.  Information on those lists, and the other lists you can put people on, are listed under [Ch 3.1: The "manage my relationship" lists](./Aylea's-Intro-The-%22manage-my-relationship%22-lists).  
+* 注意：本页面将多次提及人们在你的黑名单或白名单上。关于这些列表以及你可以将人们放入的其他列表的信息，请参见 [Ch 3.1：“管理我的关系”列表](./Aylea's-Intro-The-%22manage-my-relationship%22-lists)。
 
-* Also, I recommend everybody read my "[Note on permission settings, and consent](#note-on-permission-setting-and-consent)", at the end of this page.  
+* 另外，我建议每个人都阅读本页末尾的“[关于权限设置和同意的说明](#note-on-permission-setting-and-consent)”。
 
-## The instruction guide
+## 指导说明
 
-### What character permission settings DO:  
+### 角色权限设置的作用：
 
-**Character permissions tell the game _who_ is allowed to do things to you.**
+**角色权限告诉游戏_谁_被允许对你做事情。**
 
-Your character permission setting gives people two different levels of access:  
+你的角色权限设置为你提供两种不同级别的访问权限：
 
-* People who can not touch you in any way.  They cannot apply restraints.  Change your clothes.  Perform game actions on you.  (They can't perform intimate things like masturbation, or casual things like head pets).  In fact, if you're tied up, these people cannot even _untie_ you.  
-* People who can do anything they want, to you.  (There are _other_ settings, in other places, that might restrict them some.  But the "character permissions" setting is all or nothing.)  
+* 无法以任何方式触碰你的人。他们不能应用束缚。不能更换你的衣服。不能对你执行游戏动作。（他们不能执行亲密的事情，比如自慰，也不能执行休闲的事情，比如摸头）。事实上，如果你被绑住了，这些人甚至无法为你_解开_。
+* 可以对你做任何他们想做的事情的人。（在其他地方还有_其他_设置可能会对他们有一些限制。但“角色权限”设置是全有或全无的。）
 
-There are six possible permission settings:  
+有六种可能的权限设置：
 
-1. Everyone, no exceptions.
-2. Everyone, but blacklist.  
-3. Owner, lover, whitelist, and dominants.  (New player default)
-4. Owner, lover, whitelist.  
-5. Owner, lover
-6. Owner only
+1. 所有人，无例外。
+2. 所有人，但黑名单除外。
+3. 所有者、恋人、白名单和支配者。（新玩家默认）
+4. 所有者、恋人、白名单。
+5. 所有者、恋人
+6. 仅限所有者
 
-…but I'd estimate that probably 98% of the club uses just #2 or 4.  
+……但我估计大约 98% 的俱乐部成员只使用第 2 或第 4 项。
 
-You're not committed to any particular setting.  You can change any time.  But odds are, after you've used one setting, then changing to a different one will be an inconvenience.  
+你不需要固定在任何特定设置上。你可以随时更改。但很有可能，在你使用了一种设置之后，再更改为另一种设置会带来不便。
 
-One way of looking at it is, it's "people you trust", and "people you don't".  
+看待它的一种方式是，它是“你信任的人”和“你不信任的人”。
 
-### How to set your permission setting
+### 如何设置你的权限设置
 
-The setting is behind a series of screens.  
+该设置隐藏在一系列屏幕后面。
 
-Assuming that you're standing in a chatroom:  
+假设你正站在一个聊天室里：
 
-* At the top of the screen, click the "profile" button.  It looks like a face.  
-* On the "profile" page, on the right side, click the "settings" button.  It looks like three sliders.  
-* Click "General".  
-* The second item on the "General" page is your permission setting.  There's a ">" button which will change your setting to the next one.  just keep clicking it till you have the one you want.  
+* 在屏幕顶部，点击“个人资料”按钮。它看起来像一张脸。
+* 在“个人资料”页面上，在右侧，点击“设置”按钮。它看起来像三个滑块。
+* 点击“常规（General）”。
+* “常规”页面上的第二项是你的权限设置。有一个“>”按钮可以将你的设置更改为下一个。只需一直点击它，直到获得你想要的设置。
 
-(In other rooms, like the main hall, and a lot of the NPC rooms, there's a button that looks like a face, that will take you to your profile page.  And from there, the instructions are the same.)
+（在其他房间，如主大厅和许多 NPC 房间里，有一个看起来像脸的按钮，可以带你到你的个人资料页面。从那里开始，说明是相同的。）
 
-### Settings I recommend against using
+### 我建议不要使用的设置
 
-There are two permission settings that I recommend against people using.  Here's my reasons why:  
+有两个权限设置是我建议人们不要使用的。以下是我的原因：
 
-* "Owner, lover, whitelist, dominants".  (Yes, this is the default setting for new players.)  I advise people against this setting, because it grants or denies access to you, based on somebody's "dominant/submissive" reputation.  And I can tell you with absolute certainty that there is nothing about a "dominant" reputation that makes somebody more worthy of your trust.  (It might even be the opposite.)  
-* "Everybody, no exceptions".  I recommend against this setting, and advise people to stick with "Everybody but blacklist" instead.  
-As long as you don't _want_ to blacklist anybody, the two settings are identical.  
-But, if you're ever in a situation where you think that blacklist is the right choice, then you don't want to have to be figuring out how to change your permission setting, _before_ blacklisting will have any effect.  
+* “所有者、恋人、白名单、支配者”。（是的，这是新玩家的默认设置。）我建议人们不要使用此设置，因为它根据某人的“支配/顺从”声誉来授予或拒绝访问你的权限。我可以绝对肯定地告诉你，关于“支配”声誉没有任何东西能让人更值得你的信任。（甚至可能恰恰相反。）
+* “所有人，无例外”。我建议不要使用此设置，并建议人们坚持使用“所有人但黑名单除外”。
+只要你_不想_把任何人列入黑名单，这两个设置就是完全相同的。
+但是，如果你发现自己处于某种认为黑名单是正确选择的情况，那么你就不希望在黑名单产生任何效果_之前_还得弄清楚如何更改权限设置。
 
-## What the settings mean, to a player
+## 这些设置对玩家意味着什么
 
-### Everyone but blacklist
+### 所有人但黑名单除外
 
-The most common permission setting in the club is "Everyone but blacklist".  It's the setting I use, myself.  
+俱乐部中最常见的权限设置是“所有人但黑名单除外”。这也是我自己使用的设置。
 
-What that setting _means_, is that right now, everybody in the club can do whatever they want, to me.  
+这个设置的_意思是_，现在，俱乐部里的每个人都可以对你做任何他们想做的事。
 
-They won't.  They'll ask first.  But they can.  The game will let them.  
+他们不会这么做。他们会先征求同意。但他们可以。游戏会允许他们。
 
-Unless I blacklist them.  Then they can't touch me at all.  
+除非我把他们拉黑。那样他们就不能碰我。
 
-It means "everybody has access to me, except the specific people I individually deny access to."
+它的意思是“每个人都可以访问我，除了我个人拒绝访问的特定人员。”
 
-Now, for me?  There's one way somebody gets on my blacklist.  Hit me, or somebody else, with a whip or a restraint, without getting consent first.  
+现在，对你来说？有一种人会进入我的黑名单。没有先征求同意，就用鞭子或束缚打我或其他人。
 
-I've been a club member for 500 days.  And there's around 60 people on my blacklist.  And around 20 of them are one person.  A famous club troll who hasn't been around for months.  
+我已经成为俱乐部会员 500 天了。我的黑名单上有大约 60 人。其中大约 20 人是同一个人。一个已经好几个月没出现过的著名俱乐部巨魔。
 
-So it's rare.  But it does happen.  
+所以这种情况很少见。但它确实发生了。
 
-And I should also mention. I'm probably more touchy about consent than most of the people in the club.  I probably blacklist people a lot quicker than most club members do.  I've met lots of people who have never blacklisted anybody.  
+我也应该提一下。我对同意的敏感度可能比俱乐部里的绝大多数人都要高。我把人拉黑的速度可能比大多数俱乐部成员都要快。我遇到过很多从未拉黑过任何人的人。
 
-So, that's what it's like, in the club, using "Everybody but blacklist".  
+所以，这就是在俱乐部里使用“所有人但黑名单除外”的感觉。
 
-### Owner, lover, whitelist
+### 所有者、恋人、白名单
 
-Now, the second most common setting in the club is "owner, lover, whitelist".  
+现在，俱乐部中第二常见的设置是“所有者、恋人、白名单”。
 
-With that setting, _nobody_ in the club can touch you.  Unless you grant them that power, by giving them one of those statuses.  
+使用该设置，俱乐部里的_任何人_都不能碰你。除非你通过授予他们其中一种身份来赋予他们这种权力。
 
-With "owner, lover, whitelist", you can wander around the club, and nobody can touch you.  
+通过“所有者、恋人、白名单”，你可以在俱乐部里四处走动，没有人能碰你。
 
-But.  You meet somebody.  You talk.  You decide to play with them?  Add them to your whitelist, and now that one person can do things to you.  
+但是。你遇到了某人。你们聊天。你决定和他们玩？将他们加入你的白名单，现在这个人就可以对你做事情了。
 
-**So the difference between "Everybody but blacklist" and "Owner, lover, whitelist", is whether _strangers_ can do things to you.**
+**所以“所有人但黑名单除外”和“所有者、恋人、白名单”的区别在于_陌生人_是否可以对你做事情。**
 
-As a practical matter, I see a lot of dominants use "Owner, lover, whitelist".  Because they assume that they're not going to be giving that many people permission to tie them up.  Whereas lots of subs use "Everybody but blacklist", because they expect to be granting consent to lots of people, and it's a pain having to add every person you meet to your whitelist.  But that's a _very_ general impression, and I know _lots_ of people who don't follow that pattern.  
+实际上，我看到很多支配者使用“所有者、恋人、白名单”。因为他们认为自己不会给那么多的人权限来绑他们。而许多顺从者使用“所有人但黑名单除外”，因为他们希望向很多人给予同意，而且不得不把你遇到的每个人都加到白名单里是一件很麻烦的事。但这只是一个_非常_普遍的印象，我知道有_很多_人不遵循这种模式。
 
-### Note on permission setting, and consent
+### 关于权限设置和同意的说明
 
-First a disclaimer:  I am not a spokesman for the club.  The following is my personal opinion, not official club rules.  
+首先声明：我不是俱乐部的代言人。以下是我的个人意见，并非俱乐部的官方规则。
 
-**No, setting your permission setting to "Everybody but blacklist" does NOT mean you consented to anybody doing whatever they want, to you.**  
+**不，将你的权限设置设为“所有人但黑名单除外”并不意味着你同意任何人对你做他们想做的事。**
 
-The rule in the club, which every person agreed to when they entered, is "Bondage requires consent".  Not "If you don't want me to tie you, then it's your job to make it so I can't."  
+俱乐部里的规则（每个人在进入时都同意了）是“束缚需要同意”。而不是“如果你不想让我绑你，那么让你无法绑你就是你的工作。”
 
-Now, having said that?  
+现在，既然这么说了？
 
-* Yes, you will see a lot of people who have put things in their profile along the lines of "I give you permission to bind me without warning".  People who _choose_ to grant consent, in advance.  It's pretty common, actually.  
-* And you will see chat rooms with signs on the door that say that "Entering is consent".  Or "Come in and get kidnapped".  Again.  The people who enter that room, they consented.  (And if you enter, so did you.)  
+* 是的，你会看到很多人在他们的个人资料中写着诸如“我允许你在没有警告的情况下绑定我”之类的话。选择提前给予同意的人。实际上这很常见。
+* 并且你会看到门上挂着标语的聊天室，上面写着“进入即是同意”。或者“进来并被绑架”。再次说明。进入那个房间的人，他们同意了。（如果你进去了，你也是。）
 
-But no, simply setting your permission to "Everybody but blacklist" is not granting blanket consent to every person, everywhere in the club.  
+但不能，仅仅将你的权限设置为“所有人但黑名单除外”并不代表向俱乐部里任何地方的每个人授予全面的同意。
